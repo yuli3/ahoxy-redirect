@@ -481,22 +481,22 @@
  },
  {
   "source": "/:locale/lostark-bus-calculator",
-  "destination": "https://blog.oiyo.net/ko/tool-lostark-raid-splitter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-raid-splitter",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
   "source": "/:locale/lostark-market-engraving",
-  "destination": "https://blog.oiyo.net/ko/tool-lostark-auction-calc?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-auction-calc",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
   "source": "/:locale/lostark-stronghold",
-  "destination": "https://blog.oiyo.net/ko/tool-lostark-auction-calc?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-auction-calc",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
   "source": "/:locale/lostarkCalculator",
-  "destination": "https://blog.oiyo.net/ko/tool-lostark-auction-calc?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-auction-calc",
+  "destination": "https://game.oiyo.net/:locale/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction",
   "permanent": true
  },
  {
@@ -1946,12 +1946,12 @@
  },
  {
   "source": "/:locale/q1q3",
-  "destination": "https://blog.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-raid-distribution",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
   "source": "/:locale/q1q3/:path*",
-  "destination": "https://blog.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-raid-distribution",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
@@ -2333,22 +2333,22 @@
  },
  {
   "source": "/q1q3",
-  "destination": "https://blog.oiyo.net/en/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "destination": "https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
   "source": "/q1q3/:path*",
-  "destination": "https://blog.oiyo.net/en/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "destination": "https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
   "source": "/:locale/q1q3",
-  "destination": "https://blog.oiyo.net/:locale/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
   "source": "/:locale/q1q3/:path*",
-  "destination": "https://blog.oiyo.net/:locale/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
  {
