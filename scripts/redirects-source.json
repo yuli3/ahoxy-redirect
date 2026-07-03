@@ -1,22 +1,22 @@
 [
  {
   "source": "/aim-trainer",
-  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/aim-trainer/:path*",
-  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/gomoku",
-  "destination": "https://blog.oiyo.net/ko/game-gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-gomoku",
+  "destination": "https://game.oiyo.net/ko/gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku",
   "permanent": true
  },
  {
   "source": "/gomoku/:path*",
-  "destination": "https://blog.oiyo.net/ko/game-gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-gomoku",
+  "destination": "https://game.oiyo.net/ko/gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku",
   "permanent": true
  },
  {
@@ -31,22 +31,22 @@
  },
  {
   "source": "/minesweeper",
-  "destination": "https://blog.oiyo.net/ko/minesweeper-risk-management?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper-risk-management",
+  "destination": "https://game.oiyo.net/ko/minesweeper?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper",
   "permanent": true
  },
  {
   "source": "/minesweeper/:path*",
-  "destination": "https://blog.oiyo.net/ko/minesweeper-risk-management?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper-risk-management",
+  "destination": "https://game.oiyo.net/ko/minesweeper?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper",
   "permanent": true
  },
  {
   "source": "/wordle",
-  "destination": "https://blog.oiyo.net/ko/wordle-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle-game",
+  "destination": "https://game.oiyo.net/ko/wordle?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
   "permanent": true
  },
  {
   "source": "/wordle/:path*",
-  "destination": "https://blog.oiyo.net/ko/wordle-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle-game",
+  "destination": "https://game.oiyo.net/ko/wordle?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
   "permanent": true
  },
  {
@@ -921,7 +921,7 @@
  },
  {
   "source": "/:locale/minesweeper",
-  "destination": "https://blog.oiyo.net/ko/minesweeper-risk-management?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper-risk-management",
+  "destination": "https://game.oiyo.net/ko/minesweeper?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper",
   "permanent": true
  },
  {
@@ -956,7 +956,7 @@
  },
  {
   "source": "/:locale/wordle",
-  "destination": "https://blog.oiyo.net/ko/wordle-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle-game",
+  "destination": "https://game.oiyo.net/ko/wordle?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
   "permanent": true
  },
  {
@@ -1206,12 +1206,12 @@
  },
  {
   "source": "/:locale/aim-trainer",
-  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/:locale/aim-trainer/:path*",
-  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
@@ -1226,7 +1226,7 @@
  },
  {
   "source": "/:locale/gomoku",
-  "destination": "https://blog.oiyo.net/ko/game-gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-gomoku",
+  "destination": "https://game.oiyo.net/ko/gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku",
   "permanent": true
  },
  {
@@ -1706,42 +1706,42 @@
  },
  {
   "source": "/:locale/2048",
-  "destination": "https://blog.oiyo.net/:locale/game-2048?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-2048",
+  "destination": "https://game.oiyo.net/:locale/game-2048?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-2048",
   "permanent": true
  },
  {
   "source": "/:locale/2048/:path*",
-  "destination": "https://blog.oiyo.net/:locale/game-2048?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-2048",
+  "destination": "https://game.oiyo.net/:locale/game-2048?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-2048",
   "permanent": true
  },
  {
   "source": "/:locale/memory-test-card",
-  "destination": "https://blog.oiyo.net/:locale/memory-card-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=memory-card-game",
+  "destination": "https://game.oiyo.net/:locale/memory-card-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=memory-card-game",
   "permanent": true
  },
  {
   "source": "/:locale/memory-test-card/:path*",
-  "destination": "https://blog.oiyo.net/:locale/memory-card-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=memory-card-game",
+  "destination": "https://game.oiyo.net/:locale/memory-card-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=memory-card-game",
   "permanent": true
  },
  {
   "source": "/:locale/tent-tree-puzzle",
-  "destination": "https://blog.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
+  "destination": "https://game.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
   "permanent": true
  },
  {
   "source": "/:locale/tent-tree-puzzle/:path*",
-  "destination": "https://blog.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
+  "destination": "https://game.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
   "permanent": true
  },
  {
   "source": "/:locale/spinner",
-  "destination": "https://blog.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
+  "destination": "https://game.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
   "permanent": true
  },
  {
   "source": "/:locale/spinner/:path*",
-  "destination": "https://blog.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
+  "destination": "https://game.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
   "permanent": true
  },
  {
@@ -2119,6 +2119,216 @@
  {
   "source": "/:locale(en|ko|ja|zh|fr|es)/:path*",
   "destination": "https://oiyo.net/:locale?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/ai",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ai",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/ai/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ai",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/caffeine-calculator",
+  "destination": "https://blog.oiyo.net/:locale/caffeine-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=caffeine-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/caffeine-calculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/caffeine-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=caffeine-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/category",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=category",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/category/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=category",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/changelog",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=changelog",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/changelog/:path*",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=changelog",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/contact",
+  "destination": "https://blog.oiyo.net/:locale/privacy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=contact",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/contact/:path*",
+  "destination": "https://blog.oiyo.net/:locale/privacy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=contact",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/express-match",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/express-match/:path*",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/expressions",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=expressions",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/expressions/:path*",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=expressions",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/face",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/face/:path*",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/logo",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=logo",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/logo/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=logo",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mobileBanner",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mobileBanner",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mobileBanner/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mobileBanner",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/monitor",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/monitor/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mouse",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mouse/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/note",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=note",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/note/:path*",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=note",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/privacy",
+  "destination": "https://blog.oiyo.net/:locale/privacy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=privacy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/privacy/:path*",
+  "destination": "https://blog.oiyo.net/:locale/privacy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=privacy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/quotes",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=quotes",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/quotes/:path*",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=quotes",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/reality-quote",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=reality-quote",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/reality-quote/:path*",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=reality-quote",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/roadmap",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=roadmap",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/roadmap/:path*",
+  "destination": "https://blog.oiyo.net/:locale/magazine?utm_source=ahoxy&utm_medium=redirect&utm_campaign=roadmap",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/search",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=search",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/search/:path*",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=search",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/server",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=server",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/server/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=server",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/terms",
+  "destination": "https://blog.oiyo.net/:locale/terms?utm_source=ahoxy&utm_medium=redirect&utm_campaign=terms",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/terms/:path*",
+  "destination": "https://blog.oiyo.net/:locale/terms?utm_source=ahoxy&utm_medium=redirect&utm_campaign=terms",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/ratio/:w/:h",
+  "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh",
+  "permanent": true
+ },
+ {
+  "source": "/ratio/:w/:h",
+  "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh",
   "permanent": true
  }
 ]
