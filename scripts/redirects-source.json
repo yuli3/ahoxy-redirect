@@ -2330,5 +2330,35 @@
   "source": "/ratio/:w/:h",
   "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh",
   "permanent": true
+ },
+ {
+  "source": "/q1q3",
+  "destination": "https://blog.oiyo.net/en/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "permanent": true
+ },
+ {
+  "source": "/q1q3/:path*",
+  "destination": "https://blog.oiyo.net/en/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/q1q3",
+  "destination": "https://blog.oiyo.net/:locale/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/q1q3/:path*",
+  "destination": "https://blog.oiyo.net/:locale/quartile-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=q1q3",
+  "permanent": true
+ },
+ {
+  "source": "/kbd",
+  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kbd",
+  "permanent": true
+ },
+ {
+  "source": "/kbd/:path*",
+  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kbd",
+  "permanent": true
  }
 ]
