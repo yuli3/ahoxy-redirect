@@ -1,0 +1,4 @@
+# ahoxy.com — redirect shell. Crawling must stay ALLOWED so search engines
+# can discover the 301s and transfer equity to the oiyo family.
+User-agent: *
+Allow: /
