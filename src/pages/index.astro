@@ -1,0 +1,18 @@
+---
+// 루트 안전망 — 정상적으로는 _redirects의 `/ → oiyo.net` 301이 먼저 걸린다.
+// (Cloudflare가 룰을 못 읽는 사고 시에도 사용자는 이동되도록 meta refresh 백업)
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0;url=https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=stub&utm_campaign=root" />
+    <link rel="canonical" href="https://oiyo.net/ko/" />
+    <meta name="robots" content="noindex, follow" />
+    <title>Ahoxy → OIYO</title>
+  </head>
+  <body>
+    <p>Ahoxy has moved: <a href="https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=stub&utm_campaign=root">oiyo.net</a></p>
+  </body>
+</html>

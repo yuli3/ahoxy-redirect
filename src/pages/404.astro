@@ -1,0 +1,64 @@
+---
+// 스마트 404 스텁 — _redirects 정확매치에 안 걸린 서브경로/미지 경로 처리.
+// redirect-map.json(길이 내림차순 정렬됨)에서 최장 프리픽스 매치 → 0초 이동.
+// 매치 없으면 oiyo.net 안내 + 3초 이동. (blog OiyoCanonicalRedirect 패턴)
+import redirectMap from "../redirect-map.json";
+const mapJson = JSON.stringify(redirectMap);
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, follow" />
+    <title>Ahoxy has moved to OIYO</title>
+    <style>
+      body {
+        margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+        background: #fbfbf6; color: #23241f;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+        text-align: center; padding: 24px;
+      }
+      .card { max-width: 460px; }
+      h1 { font-size: 22px; margin: 0 0 8px; }
+      p { color: #6b6e60; font-size: 14px; line-height: 1.6; }
+      a.btn {
+        display: inline-block; margin-top: 14px; padding: 12px 28px; border-radius: 999px;
+        background: #4d7c0f; color: #fff; font-weight: 700; text-decoration: none; font-size: 14px;
+      }
+      .links { margin-top: 18px; font-size: 12px; }
+      .links a { color: #4d7c0f; margin: 0 8px; }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Ahoxy는 OIYO 패밀리로 이전했습니다</h1>
+      <p>
+        모든 테스트·도구·게임이 더 정확하고 빠르게 <b>OIYO</b>에서 운영됩니다.<br />
+        Every test, tool and game now lives on the OIYO family — moving you there…
+      </p>
+      <a class="btn" id="go" href="https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=stub&utm_campaign=404">OIYO로 이동 →</a>
+      <div class="links">
+        <a href="https://oiyo.net">oiyo.net — 테스트·도구</a>
+        <a href="https://blog.oiyo.net">blog — 강의·게임</a>
+        <a href="https://wiki.oiyo.net">wiki — 사전</a>
+      </div>
+    </div>
+    <script is:inline define:vars={{ mapJson }}>
+      const map = JSON.parse(mapJson); // 키 = 길이 내림차순 → 첫 매치가 최장
+      const path = location.pathname.replace(/\/+$/, "") || "/";
+      let dest = null;
+      for (const prefix in map) {
+        if (path === prefix || path.startsWith(prefix + "/")) { dest = map[prefix]; break; }
+      }
+      const go = document.getElementById("go");
+      if (dest) {
+        go.href = dest;
+        location.replace(dest); // 매핑된 목적지로 즉시 이동
+      } else {
+        setTimeout(() => location.replace(go.href), 3000); // 안내 3초 후 허브로
+      }
+    </script>
+  </body>
+</html>

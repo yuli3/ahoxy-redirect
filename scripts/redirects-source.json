@@ -1,0 +1,2124 @@
+[
+ {
+  "source": "/aim-trainer",
+  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "permanent": true
+ },
+ {
+  "source": "/aim-trainer/:path*",
+  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "permanent": true
+ },
+ {
+  "source": "/gomoku",
+  "destination": "https://blog.oiyo.net/ko/game-gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-gomoku",
+  "permanent": true
+ },
+ {
+  "source": "/gomoku/:path*",
+  "destination": "https://blog.oiyo.net/ko/game-gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-gomoku",
+  "permanent": true
+ },
+ {
+  "source": "/tier",
+  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "permanent": true
+ },
+ {
+  "source": "/tier/:path*",
+  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "permanent": true
+ },
+ {
+  "source": "/minesweeper",
+  "destination": "https://blog.oiyo.net/ko/minesweeper-risk-management?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper-risk-management",
+  "permanent": true
+ },
+ {
+  "source": "/minesweeper/:path*",
+  "destination": "https://blog.oiyo.net/ko/minesweeper-risk-management?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper-risk-management",
+  "permanent": true
+ },
+ {
+  "source": "/wordle",
+  "destination": "https://blog.oiyo.net/ko/wordle-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle-game",
+  "permanent": true
+ },
+ {
+  "source": "/wordle/:path*",
+  "destination": "https://blog.oiyo.net/ko/wordle-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle-game",
+  "permanent": true
+ },
+ {
+  "source": "/kbd2",
+  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test",
+  "permanent": true
+ },
+ {
+  "source": "/kbd2/:path*",
+  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test",
+  "permanent": true
+ },
+ {
+  "source": "/typing-test",
+  "destination": "https://blog.oiyo.net/en/typing-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test",
+  "permanent": true
+ },
+ {
+  "source": "/typing-test/:path*",
+  "destination": "https://blog.oiyo.net/en/typing-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test",
+  "permanent": true
+ },
+ {
+  "source": "/menu",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/name",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/emoji",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/worldclock",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/height-converter",
+  "destination": "https://blog.oiyo.net/en/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
+  "permanent": true
+ },
+ {
+  "source": "/height-converter/:path*",
+  "destination": "https://blog.oiyo.net/en/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
+  "permanent": true
+ },
+ {
+  "source": "/percent-converter",
+  "destination": "https://blog.oiyo.net/en/percent-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=percent-converter",
+  "permanent": true
+ },
+ {
+  "source": "/percent-converter/:path*",
+  "destination": "https://blog.oiyo.net/en/percent-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=percent-converter",
+  "permanent": true
+ },
+ {
+  "source": "/angle-converter",
+  "destination": "https://blog.oiyo.net/en/angle-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=angle-converter",
+  "permanent": true
+ },
+ {
+  "source": "/angle-converter/:path*",
+  "destination": "https://blog.oiyo.net/en/angle-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=angle-converter",
+  "permanent": true
+ },
+ {
+  "source": "/fraction-converter",
+  "destination": "https://blog.oiyo.net/en/fraction-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=fraction-converter",
+  "permanent": true
+ },
+ {
+  "source": "/fraction-converter/:path*",
+  "destination": "https://blog.oiyo.net/en/fraction-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=fraction-converter",
+  "permanent": true
+ },
+ {
+  "source": "/scientific-notation",
+  "destination": "https://blog.oiyo.net/en/scientific-notation-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=scientific-notation",
+  "permanent": true
+ },
+ {
+  "source": "/scientific-notation/:path*",
+  "destination": "https://blog.oiyo.net/en/scientific-notation-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=scientific-notation",
+  "permanent": true
+ },
+ {
+  "source": "/hex-converter",
+  "destination": "https://blog.oiyo.net/en/color-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hex-converter",
+  "permanent": true
+ },
+ {
+  "source": "/hex-converter/:path*",
+  "destination": "https://blog.oiyo.net/en/color-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hex-converter",
+  "permanent": true
+ },
+ {
+  "source": "/resolution",
+  "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=resolution",
+  "permanent": true
+ },
+ {
+  "source": "/resolution/:path*",
+  "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=resolution",
+  "permanent": true
+ },
+ {
+  "source": "/number-converter",
+  "destination": "https://blog.oiyo.net/en/number-base-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=number-converter",
+  "permanent": true
+ },
+ {
+  "source": "/number-converter/:path*",
+  "destination": "https://blog.oiyo.net/en/number-base-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=number-converter",
+  "permanent": true
+ },
+ {
+  "source": "/ratio",
+  "destination": "https://blog.oiyo.net/en/ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio",
+  "permanent": true
+ },
+ {
+  "source": "/ratio/:path*",
+  "destination": "https://blog.oiyo.net/en/ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio",
+  "permanent": true
+ },
+ {
+  "source": "/universal-converter",
+  "destination": "https://blog.oiyo.net/en/universal-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=universal-converter",
+  "permanent": true
+ },
+ {
+  "source": "/universal-converter/:path*",
+  "destination": "https://blog.oiyo.net/en/universal-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=universal-converter",
+  "permanent": true
+ },
+ {
+  "source": "/wage",
+  "destination": "https://blog.oiyo.net/ko/salary-calculator-complete-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=salary-calculator-complete-guide",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/personalColor",
+  "destination": "https://oiyo.net/:locale/personal-color/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/personalColor/:path*",
+  "destination": "https://oiyo.net/:locale/personal-color/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/eq-insight",
+  "destination": "https://oiyo.net/:locale/eq/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=eq-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/self-esteem-compass",
+  "destination": "https://oiyo.net/:locale/self-esteem/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=self-esteem-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/self-esteem-compass/:path*",
+  "destination": "https://oiyo.net/:locale/self-esteem/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=self-esteem-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/adhd-screening",
+  "destination": "https://oiyo.net/:locale/adhd/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=adhd-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/adhd-screening/:path*",
+  "destination": "https://oiyo.net/:locale/adhd/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=adhd-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/bond-insight",
+  "destination": "https://oiyo.net/:locale/investment-type/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=investment-type-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/business-type",
+  "destination": "https://blog.oiyo.net/ko/psychology-career-values-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-career-values-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/coffee-personality",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/collab-risk",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/color-aura",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/color-personality",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/commute-mental",
+  "destination": "https://oiyo.net/:locale/commute-mental/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=commute-mental-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/compatibility",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/decision-lens",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/depression-test",
+  "destination": "https://oiyo.net/:locale/depression/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=depression-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/digital-balance",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/digital-wellbeing",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/egogram",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/emotional-mind",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/focus-blocker",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/happymeter",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/hormones",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/insightquest",
+  "destination": "https://oiyo.net/:locale/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/leaderpulse",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/learning-style",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/leftbrain",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mbti-stress-relief",
+  "destination": "https://oiyo.net/:locale/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mbti-stress-relief/:path*",
+  "destination": "https://oiyo.net/:locale/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/meeting-style",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mindset-compass",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/money-personality",
+  "destination": "https://oiyo.net/:locale/investment-type/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=investment-type-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/perfectscope",
+  "destination": "https://oiyo.net/:locale/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/perfume-quiz",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/perfume-test",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/spending-habits-test",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/spending-habits-test/:path*",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/stress-type",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tci",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tci/:path*",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/thinking-patterns",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tone-analysis",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/value-compass",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/anniversary",
+  "destination": "https://blog.oiyo.net/ko/tool-anniversary-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-anniversary-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/annual-leave",
+  "destination": "https://blog.oiyo.net/ko/tool-annual-leave-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-annual-leave-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/calorie",
+  "destination": "https://blog.oiyo.net/ko/tool-calorie-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-calorie-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/calorie/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-calorie-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-calorie-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/capital-gains-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-real-estate-capital-gains-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-real-estate-capital-gains-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/capital-gains-tax/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-real-estate-capital-gains-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-real-estate-capital-gains-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dday",
+  "destination": "https://blog.oiyo.net/ko/tool-dday-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-dday-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dday/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-dday-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-dday-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/financial-investment-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/financial-investment-tax/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/horoscope",
+  "destination": "https://blog.oiyo.net/ko/tool-daily-horoscope?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-daily-horoscope",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/insurance-premium",
+  "destination": "https://blog.oiyo.net/ko/tool-insurance-premium-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-insurance-premium-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/jeonse-guarantee",
+  "destination": "https://blog.oiyo.net/ko/tool-jeonse-guarantee-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-jeonse-guarantee-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lostark-bus-calculator",
+  "destination": "https://blog.oiyo.net/ko/tool-lostark-raid-splitter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-raid-splitter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lostark-market-engraving",
+  "destination": "https://blog.oiyo.net/ko/tool-lostark-auction-calc?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-auction-calc",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lostark-stronghold",
+  "destination": "https://blog.oiyo.net/ko/tool-lostark-auction-calc?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-auction-calc",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lostarkCalculator",
+  "destination": "https://blog.oiyo.net/ko/tool-lostark-auction-calc?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lostark-auction-calc",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lorem",
+  "destination": "https://blog.oiyo.net/ko/tool-lorem-ipsum-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lorem-ipsum-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/menstrual-tracker",
+  "destination": "https://blog.oiyo.net/ko/tool-menstrual-cycle-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-menstrual-cycle-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/morsecode",
+  "destination": "https://blog.oiyo.net/ko/tool-morse-code-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-morse-code-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/nutrition",
+  "destination": "https://blog.oiyo.net/ko/tool-nutrition-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-nutrition-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/nutrition/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-nutrition-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-nutrition-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/password",
+  "destination": "https://blog.oiyo.net/ko/tool-password-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-password-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/pet-age",
+  "destination": "https://blog.oiyo.net/ko/tool-pet-age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-pet-age-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/saju",
+  "destination": "https://oiyo.net/:locale/saju/calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=saju",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/saju/:path*",
+  "destination": "https://oiyo.net/:locale/saju/calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=saju",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tip",
+  "destination": "https://blog.oiyo.net/ko/tool-tip-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-tip-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/trip",
+  "destination": "https://blog.oiyo.net/ko/tool-travel-budget-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-travel-budget-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/uuidgenerator",
+  "destination": "https://blog.oiyo.net/ko/tool-uuid-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-uuid-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/acquisition-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/acquisition-tax/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/bmi",
+  "destination": "https://blog.oiyo.net/ko/tool-body-fat-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-body-fat-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/bmi/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-body-fat-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-body-fat-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/bodyfat",
+  "destination": "https://blog.oiyo.net/ko/tool-body-fat-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-body-fat-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/car-installment",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/car-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/compound",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/compound2",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/crypto-tax-calculator",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/deposit-calculator",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dividend-calendar",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dsr-calculator",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dutch-pay",
+  "destination": "https://blog.oiyo.net/:locale/dutch-pay-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dutch-pay",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/early-repayment",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/expense-ratio-calculator",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/fire",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/freelancer-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-comprehensive-income-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-comprehensive-income-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/freelancer-vs-business",
+  "destination": "https://blog.oiyo.net/ko/tool-comprehensive-income-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-comprehensive-income-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/gift-roadmap",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/gift-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/gift-vs-inheritance",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/global-income-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-global-salary-calculators?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-global-salary-calculators",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/global-income-tax/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-global-salary-calculators?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-global-salary-calculators",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/grade",
+  "destination": "https://blog.oiyo.net/ko/tool-education-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-education-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/incorporation",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/incorporation-timing",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/inheritance-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/inheritance-tax/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/isa-calculator",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/isa-vs-pension",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/jeonse-vs-buy",
+  "destination": "https://blog.oiyo.net/ko/tool-jeonse-monthly-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-jeonse-monthly-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/jeonse-vs-rent",
+  "destination": "https://blog.oiyo.net/ko/tool-jeonse-monthly-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-jeonse-monthly-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/labor-cost",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/latte-factor",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/legal-interest",
+  "destination": "https://blog.oiyo.net/ko/tool-legal-interest-calc?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-legal-interest-calc",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/life-expectancy",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lotto",
+  "destination": "https://blog.oiyo.net/:locale/lotto-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lotto",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/market-backtest",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/meeting-cost",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/overseas-stock-saver",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/pension",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/pension-optimizer",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/present-value",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/property-tax",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/real-estate",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/rental-roi",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/savings",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/savings-comparison",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/severance-pay",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/statute-of-limitations",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/stock-averaging",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/stock-yield-calculator",
+  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/subscription-points",
+  "destination": "https://blog.oiyo.net/ko/tool-apt-subscription-score?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-apt-subscription-score",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tax-calculators",
+  "destination": "https://blog.oiyo.net/ko/tool-comprehensive-income-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-comprehensive-income-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tax-season",
+  "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/vat",
+  "destination": "https://blog.oiyo.net/ko/tool-comprehensive-income-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-comprehensive-income-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/vat/:path*",
+  "destination": "https://blog.oiyo.net/ko/tool-comprehensive-income-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-comprehensive-income-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/wedding-planning",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/year",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/year-end-settlement",
+  "destination": "https://blog.oiyo.net/ko/tool-comprehensive-income-tax?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-comprehensive-income-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/blackjack",
+  "destination": "https://blog.oiyo.net/ko/blackjack-probability-decision?utm_source=ahoxy&utm_medium=redirect&utm_campaign=blackjack-probability-decision",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/checkers",
+  "destination": "https://blog.oiyo.net/ko/checkers-maneuver-strategy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=checkers-maneuver-strategy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/checkers/:path*",
+  "destination": "https://blog.oiyo.net/ko/checkers-maneuver-strategy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=checkers-maneuver-strategy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/chess",
+  "destination": "https://blog.oiyo.net/ko/chess-strategy-depth-thinking?utm_source=ahoxy&utm_medium=redirect&utm_campaign=chess-strategy-depth-thinking",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/color-recognition-test",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/color-recognition-test/:path*",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/domino",
+  "destination": "https://blog.oiyo.net/ko/dominoes-connectivity-strategy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dominoes-connectivity-strategy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/freecell",
+  "destination": "https://blog.oiyo.net/ko/freecell-resource-allocation?utm_source=ahoxy&utm_medium=redirect&utm_campaign=freecell-resource-allocation",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/hearts",
+  "destination": "https://blog.oiyo.net/ko/hearts-risk-transfer-strategy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/hitori",
+  "destination": "https://blog.oiyo.net/ko/hitori-decluttering-strategy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hitori-decluttering-strategy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lightup",
+  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/minesweeper",
+  "destination": "https://blog.oiyo.net/ko/minesweeper-risk-management?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper-risk-management",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/reversi",
+  "destination": "https://blog.oiyo.net/ko/reversi-reversal-strategy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=reversi-reversal-strategy",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/snake",
+  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/solitaire",
+  "destination": "https://blog.oiyo.net/ko/solitaire-order-focus?utm_source=ahoxy&utm_medium=redirect&utm_campaign=solitaire-order-focus",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/sudoku",
+  "destination": "https://blog.oiyo.net/ko/sudoku-deduction-logic?utm_source=ahoxy&utm_medium=redirect&utm_campaign=sudoku-deduction-logic",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/sudoku/:path*",
+  "destination": "https://blog.oiyo.net/ko/sudoku-deduction-logic?utm_source=ahoxy&utm_medium=redirect&utm_campaign=sudoku-deduction-logic",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/water-sort",
+  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/wordle",
+  "destination": "https://blog.oiyo.net/ko/wordle-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle-game",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/beautifier",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/cryptography",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/css-unit-converter",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/encryption-decryption",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/gzip-zlib-decompressor",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/htmlentities",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-to-ascii",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-to-base64",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/json",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/json-encode-decode",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/json-navigator",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/json-parser",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/json-to-html",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/md-table",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/md-to-html",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/minifier",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/svg-viewer",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/toml-to-json",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/url-parser",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/xml-parser",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/yaml-parser",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/yaml-to-json",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/barcodeGenerator",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/color-converter",
+  "destination": "https://blog.oiyo.net/ko/tool-color-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-color-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/colorPicker",
+  "destination": "https://blog.oiyo.net/ko/tool-color-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-color-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/cultural-greetings",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dog-vision",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/emoji",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/imageConverter",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-metadata",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/menu",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/vocab",
+  "destination": "https://blog.oiyo.net/ko/tool-education-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-education-tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/worldclock",
+  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/disc/test",
+  "destination": "https://blog.oiyo.net/ko/psychology-disc-full-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-disc-full-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/disc/test/:path*",
+  "destination": "https://blog.oiyo.net/ko/psychology-disc-full-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-disc-full-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/disc",
+  "destination": "https://blog.oiyo.net/ko/psychology-disc-full-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-disc-full-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/empathy-test",
+  "destination": "https://blog.oiyo.net/ko/psychology-empathy-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-empathy-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/empathy-test/:path*",
+  "destination": "https://blog.oiyo.net/ko/psychology-empathy-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-empathy-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lovelanguage",
+  "destination": "https://blog.oiyo.net/ko/psychology-love-language-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-love-language-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mbti",
+  "destination": "https://blog.oiyo.net/ko/psychology-full-mbti-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-full-mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mbti/:path*",
+  "destination": "https://blog.oiyo.net/ko/psychology-full-mbti-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-full-mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/animal-type",
+  "destination": "https://blog.oiyo.net/ko/psychology-animal-type-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-animal-type-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/animal-type/:path*",
+  "destination": "https://blog.oiyo.net/ko/psychology-animal-type-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-animal-type-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/riasec",
+  "destination": "https://blog.oiyo.net/ko/riasec-career-complete-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-complete-guide",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/riasec/:path*",
+  "destination": "https://blog.oiyo.net/ko/riasec-career-complete-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-complete-guide",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/attachment-style",
+  "destination": "https://blog.oiyo.net/ko/psychology-attachment-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-attachment-style-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/attachment-style/:path*",
+  "destination": "https://blog.oiyo.net/ko/psychology-attachment-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-attachment-style-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/chimp-test",
+  "destination": "https://blog.oiyo.net/ko/game-chimp-memory-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-chimp-memory-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/chimp-test/:path*",
+  "destination": "https://blog.oiyo.net/ko/game-chimp-memory-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-chimp-memory-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/aim-trainer",
+  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/aim-trainer/:path*",
+  "destination": "https://blog.oiyo.net/ko/game-aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-aim-trainer",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/kbd",
+  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/kbd2",
+  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/gomoku",
+  "destination": "https://blog.oiyo.net/ko/game-gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-gomoku",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/connect-four",
+  "destination": "https://blog.oiyo.net/ko/game-connect-four?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tier",
+  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/typing-test",
+  "destination": "https://blog.oiyo.net/:locale/typing-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/typing-test/:path*",
+  "destination": "https://blog.oiyo.net/:locale/typing-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/salary-calculator",
+  "destination": "https://blog.oiyo.net/ko/salary-calculator-complete-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=salary-calculator-complete-guide",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/wage",
+  "destination": "https://blog.oiyo.net/ko/salary-calculator-complete-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=salary-calculator-complete-guide",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/inflation-calculator",
+  "destination": "https://blog.oiyo.net/ko/inflation-purchasing-power-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=inflation-purchasing-power-guide",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/height-converter",
+  "destination": "https://blog.oiyo.net/:locale/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/height-converter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/percent-converter",
+  "destination": "https://blog.oiyo.net/:locale/percent-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=percent-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/percent-converter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/percent-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=percent-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/angle-converter",
+  "destination": "https://blog.oiyo.net/:locale/angle-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=angle-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/angle-converter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/angle-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=angle-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/fraction-converter",
+  "destination": "https://blog.oiyo.net/:locale/fraction-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=fraction-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/fraction-converter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/fraction-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=fraction-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/scientific-notation",
+  "destination": "https://blog.oiyo.net/:locale/scientific-notation-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=scientific-notation",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/scientific-notation/:path*",
+  "destination": "https://blog.oiyo.net/:locale/scientific-notation-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=scientific-notation",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/hex-converter",
+  "destination": "https://blog.oiyo.net/:locale/color-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hex-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/hex-converter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/color-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hex-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/resolution",
+  "destination": "https://blog.oiyo.net/:locale/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=resolution",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/resolution/:path*",
+  "destination": "https://blog.oiyo.net/:locale/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=resolution",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/number-converter",
+  "destination": "https://blog.oiyo.net/:locale/number-base-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=number-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/number-converter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/number-base-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=number-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/ratio",
+  "destination": "https://blog.oiyo.net/:locale/ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/ratio/:path*",
+  "destination": "https://blog.oiyo.net/:locale/ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/universal-converter",
+  "destination": "https://blog.oiyo.net/:locale/universal-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=universal-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/universal-converter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/universal-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=universal-converter",
+  "permanent": true
+ },
+ {
+  "source": "/ko/year",
+  "destination": "https://blog.oiyo.net/ko/year?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year",
+  "permanent": true
+ },
+ {
+  "source": "/ko/year/:year",
+  "destination": "https://blog.oiyo.net/ko/year/:year?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/loan-calculator",
+  "destination": "https://blog.oiyo.net/:locale/loan-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=loan-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/loan-calculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/loan-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=loan-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mortgage-calculator",
+  "destination": "https://blog.oiyo.net/:locale/mortgage-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mortgage-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mortgage-calculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/mortgage-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mortgage-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/pension-tax-calculator",
+  "destination": "https://blog.oiyo.net/:locale/pension-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=pension-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/pension-tax-calculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/pension-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=pension-tax-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/roi-calculator",
+  "destination": "https://blog.oiyo.net/:locale/roi-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=roi-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/roi-calculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/roi-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=roi-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tax-calendar",
+  "destination": "https://blog.oiyo.net/:locale/tax-calendar?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tax-calendar",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tax-calendar/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tax-calendar?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tax-calendar",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tax-savings-roadmap",
+  "destination": "https://blog.oiyo.net/:locale/tax-savings-roadmap?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tax-savings-roadmap",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tax-savings-roadmap/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tax-savings-roadmap?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tax-savings-roadmap",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/timer",
+  "destination": "https://blog.oiyo.net/:locale/timer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=timer",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/timer/:path*",
+  "destination": "https://blog.oiyo.net/:locale/timer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=timer",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/metronome",
+  "destination": "https://blog.oiyo.net/:locale/metronome?utm_source=ahoxy&utm_medium=redirect&utm_campaign=metronome",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/metronome/:path*",
+  "destination": "https://blog.oiyo.net/:locale/metronome?utm_source=ahoxy&utm_medium=redirect&utm_campaign=metronome",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/word-counter",
+  "destination": "https://blog.oiyo.net/:locale/word-counter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=word-counter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/word-counter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/word-counter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=word-counter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/palette-extractor",
+  "destination": "https://blog.oiyo.net/:locale/palette-extractor?utm_source=ahoxy&utm_medium=redirect&utm_campaign=palette-extractor",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/palette-extractor/:path*",
+  "destination": "https://blog.oiyo.net/:locale/palette-extractor?utm_source=ahoxy&utm_medium=redirect&utm_campaign=palette-extractor",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/number-sorter",
+  "destination": "https://blog.oiyo.net/:locale/number-sorter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=number-sorter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/number-sorter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/number-sorter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=number-sorter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/child-height",
+  "destination": "https://blog.oiyo.net/:locale/child-height-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=child-height-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/child-height/:path*",
+  "destination": "https://blog.oiyo.net/:locale/child-height-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=child-height-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/calculator",
+  "destination": "https://blog.oiyo.net/:locale/calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/calculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/litigation-cost",
+  "destination": "https://blog.oiyo.net/:locale/litigation-cost-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=litigation-cost-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/litigation-cost/:path*",
+  "destination": "https://blog.oiyo.net/:locale/litigation-cost-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=litigation-cost-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/loss-of-income",
+  "destination": "https://blog.oiyo.net/:locale/loss-of-income-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=loss-of-income-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/loss-of-income/:path*",
+  "destination": "https://blog.oiyo.net/:locale/loss-of-income-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=loss-of-income-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/life-planning",
+  "destination": "https://blog.oiyo.net/:locale/life-planning-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=life-planning-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/life-planning/:path*",
+  "destination": "https://blog.oiyo.net/:locale/life-planning-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=life-planning-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-grayscale",
+  "destination": "https://blog.oiyo.net/:locale/image-grayscale?utm_source=ahoxy&utm_medium=redirect&utm_campaign=image-grayscale",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-grayscale/:path*",
+  "destination": "https://blog.oiyo.net/:locale/image-grayscale?utm_source=ahoxy&utm_medium=redirect&utm_campaign=image-grayscale",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-pixelate",
+  "destination": "https://blog.oiyo.net/:locale/image-pixelate?utm_source=ahoxy&utm_medium=redirect&utm_campaign=image-pixelate",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-pixelate/:path*",
+  "destination": "https://blog.oiyo.net/:locale/image-pixelate?utm_source=ahoxy&utm_medium=redirect&utm_campaign=image-pixelate",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/gif-splitter",
+  "destination": "https://blog.oiyo.net/:locale/gif-splitter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gif-splitter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/gif-splitter/:path*",
+  "destination": "https://blog.oiyo.net/:locale/gif-splitter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gif-splitter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/favicon-generator",
+  "destination": "https://blog.oiyo.net/:locale/favicon-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=favicon-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/favicon-generator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/favicon-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=favicon-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/random-data-generator",
+  "destination": "https://blog.oiyo.net/:locale/random-data-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=random-data-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/random-data-generator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/random-data-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=random-data-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/legal-docs-generator",
+  "destination": "https://blog.oiyo.net/:locale/legal-docs-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=legal-docs-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/legal-docs-generator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/legal-docs-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=legal-docs-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/fasting-tracker",
+  "destination": "https://blog.oiyo.net/:locale/fasting-tracker?utm_source=ahoxy&utm_medium=redirect&utm_campaign=fasting-tracker",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/fasting-tracker/:path*",
+  "destination": "https://blog.oiyo.net/:locale/fasting-tracker?utm_source=ahoxy&utm_medium=redirect&utm_campaign=fasting-tracker",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/problem-solver",
+  "destination": "https://blog.oiyo.net/:locale/problem-solver-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=problem-solver-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/problem-solver/:path*",
+  "destination": "https://blog.oiyo.net/:locale/problem-solver-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=problem-solver-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/productivity-style",
+  "destination": "https://blog.oiyo.net/:locale/productivity-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=productivity-style-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/productivity-style/:path*",
+  "destination": "https://blog.oiyo.net/:locale/productivity-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=productivity-style-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/social-media-personality",
+  "destination": "https://blog.oiyo.net/:locale/social-media-personality-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=social-media-personality-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/social-media-personality/:path*",
+  "destination": "https://blog.oiyo.net/:locale/social-media-personality-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=social-media-personality-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/social-media-test",
+  "destination": "https://blog.oiyo.net/:locale/social-media-personality-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=social-media-personality-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/social-media-test/:path*",
+  "destination": "https://blog.oiyo.net/:locale/social-media-personality-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=social-media-personality-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/comstyle",
+  "destination": "https://blog.oiyo.net/:locale/communication-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/comstyle/:path*",
+  "destination": "https://blog.oiyo.net/:locale/communication-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/critiquest",
+  "destination": "https://blog.oiyo.net/:locale/critical-thinking-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=critical-thinking-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/critiquest/:path*",
+  "destination": "https://blog.oiyo.net/:locale/critical-thinking-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=critical-thinking-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mindease",
+  "destination": "https://blog.oiyo.net/:locale/health-anxiety-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=health-anxiety-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mindease/:path*",
+  "destination": "https://blog.oiyo.net/:locale/health-anxiety-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=health-anxiety-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mindrest",
+  "destination": "https://blog.oiyo.net/:locale/burnout-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=burnout-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mindrest/:path*",
+  "destination": "https://blog.oiyo.net/:locale/burnout-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=burnout-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/resiboost",
+  "destination": "https://blog.oiyo.net/:locale/resilience-boost-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=resilience-boost-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/resiboost/:path*",
+  "destination": "https://blog.oiyo.net/:locale/resilience-boost-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=resilience-boost-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/strengthsage",
+  "destination": "https://blog.oiyo.net/:locale/strengths-discovery-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=strengths-discovery-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/strengthsage/:path*",
+  "destination": "https://blog.oiyo.net/:locale/strengths-discovery-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=strengths-discovery-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/2048",
+  "destination": "https://blog.oiyo.net/:locale/game-2048?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-2048",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/2048/:path*",
+  "destination": "https://blog.oiyo.net/:locale/game-2048?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-2048",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/memory-test-card",
+  "destination": "https://blog.oiyo.net/:locale/memory-card-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=memory-card-game",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/memory-test-card/:path*",
+  "destination": "https://blog.oiyo.net/:locale/memory-card-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=memory-card-game",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tent-tree-puzzle",
+  "destination": "https://blog.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tent-tree-puzzle/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/spinner",
+  "destination": "https://blog.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/spinner/:path*",
+  "destination": "https://blog.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/procrastinot",
+  "destination": "https://blog.oiyo.net/:locale/procrastination-type-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=procrastination-type-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/procrastinot/:path*",
+  "destination": "https://blog.oiyo.net/:locale/procrastination-type-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=procrastination-type-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mindclear",
+  "destination": "https://blog.oiyo.net/:locale/thinking-patterns-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=thinking-patterns-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mindclear/:path*",
+  "destination": "https://blog.oiyo.net/:locale/thinking-patterns-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=thinking-patterns-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/personapath",
+  "destination": "https://oiyo.net/:locale/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/personapath/:path*",
+  "destination": "https://oiyo.net/:locale/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/personascope",
+  "destination": "https://oiyo.net/:locale/big5/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=big5-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/personascope/:path*",
+  "destination": "https://oiyo.net/:locale/big5/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=big5-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/soulmirror",
+  "destination": "https://oiyo.net/:locale/enneagram/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=enneagram-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/soulmirror/:path*",
+  "destination": "https://oiyo.net/:locale/enneagram/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=enneagram-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/political",
+  "destination": "https://oiyo.net/:locale/political/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=political-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/political/:path*",
+  "destination": "https://oiyo.net/:locale/political/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=political-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/face2",
+  "destination": "https://oiyo.net/:locale/personal-color/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/face2/:path*",
+  "destination": "https://oiyo.net/:locale/personal-color/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/sequence-memory-test",
+  "destination": "https://oiyo.net/:locale/color-memory-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=color-memory-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/sequence-memory-test/:path*",
+  "destination": "https://oiyo.net/:locale/color-memory-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=color-memory-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/global-etf",
+  "destination": "https://blog.oiyo.net/:locale/academy-etf-investing-ch1?utm_source=ahoxy&utm_medium=redirect&utm_campaign=etf-investing",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/global-etf/:path*",
+  "destination": "https://blog.oiyo.net/:locale/academy-etf-investing-ch1?utm_source=ahoxy&utm_medium=redirect&utm_campaign=etf-investing",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/animal-pop",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/animal-pop/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/cat-fishing",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/cat-fishing/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dot-jumpking",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dot-jumpking/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dot-pet",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dot-pet/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dot-runner",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/dot-runner/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/kurodoko",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/kurodoko/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/maze",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/maze/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/pokedex",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/pokedex/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/puzzle-15",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/puzzle-15/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tamagotchi",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tamagotchi/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/yhatzee",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/yhatzee/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/q1q3",
+  "destination": "https://blog.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-raid-distribution",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/q1q3/:path*",
+  "destination": "https://blog.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-raid-distribution",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/quiz",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/quiz/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tools",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tarot",
+  "destination": "https://oiyo.net/:locale/tarot/reading?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tarot-reading",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tarot/:path*",
+  "destination": "https://oiyo.net/:locale/tarot/reading?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tarot-reading",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/name",
+  "destination": "https://blog.oiyo.net/:locale/baby-name-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=baby-name-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/name/:path*",
+  "destination": "https://blog.oiyo.net/:locale/baby-name-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=baby-name-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/age-calculator",
+  "destination": "https://blog.oiyo.net/:locale/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/age-calculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/ageCalculator",
+  "destination": "https://blog.oiyo.net/:locale/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/ageCalculator/:path*",
+  "destination": "https://blog.oiyo.net/:locale/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/brokerage-fee",
+  "destination": "https://blog.oiyo.net/:locale/brokerage-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=brokerage-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/brokerage-fee/:path*",
+  "destination": "https://blog.oiyo.net/:locale/brokerage-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=brokerage-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/blog/saju",
+  "destination": "https://blog.oiyo.net/:locale/tool-saju-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-saju-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/blog/saju/:path*",
+  "destination": "https://blog.oiyo.net/:locale/tool-saju-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-saju-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/note/changelog",
+  "destination": "/ko/changelog",
+  "permanent": true
+ },
+ {
+  "source": "/note/:slug*",
+  "destination": "/ko/:slug*",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mbti2",
+  "destination": "/:locale/mbti",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/image-pixelator",
+  "destination": "/:locale/image-pixelate",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tools/tax/acquisition-tax",
+  "destination": "/:locale/tools/acquisition-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tools/tax/property-tax",
+  "destination": "/:locale/tools/property-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tools/tax/inheritance-tax",
+  "destination": "/:locale/tools/inheritance-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tools/tax/gift-tax",
+  "destination": "/:locale/tools/gift-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tools/tax/global-income-tax",
+  "destination": "/:locale/tools/global-income-tax",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/tools/tax/jeonse-vs-rent",
+  "destination": "/:locale/tools/jeonse-vs-rent",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/kbd/bmi",
+  "destination": "/:locale/bmi",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/caffeine-calculator/:path*",
+  "destination": "/:locale/tools/caffeine-calculator/:path*",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/digital-amulet",
+  "destination": "/:locale",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/samjae-checker",
+  "destination": "/:locale",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/mbti/results",
+  "has": [
+   {
+    "type": "query",
+    "key": "type",
+    "value": "(?<type>.*)"
+   }
+  ],
+  "destination": "/:locale/mbti/results/:type",
+  "permanent": true
+ },
+ {
+  "source": "/",
+  "destination": "https://oiyo.net/ko?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
+  "permanent": true
+ },
+ {
+  "source": "/:locale(en|ko|ja|zh|fr|es)",
+  "destination": "https://oiyo.net/:locale?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
+  "permanent": true
+ },
+ {
+  "source": "/:locale(en|ko|ja|zh|fr|es)/:path*",
+  "destination": "https://oiyo.net/:locale?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
+  "permanent": true
+ }
+]
