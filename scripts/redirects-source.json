@@ -855,6 +855,16 @@
   "permanent": true
  },
  {
+  "source": "/ko/year",
+  "destination": "https://blog.oiyo.net/ko/year?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year",
+  "permanent": true
+ },
+ {
+  "source": "/ko/year/:year",
+  "destination": "https://blog.oiyo.net/ko/year/:year?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year",
+  "permanent": true
+ },
+ {
   "source": "/:locale/year",
   "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
   "permanent": true
@@ -1362,16 +1372,6 @@
  {
   "source": "/:locale/universal-converter/:path*",
   "destination": "https://blog.oiyo.net/:locale/universal-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=universal-converter",
-  "permanent": true
- },
- {
-  "source": "/ko/year",
-  "destination": "https://blog.oiyo.net/ko/year?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year",
-  "permanent": true
- },
- {
-  "source": "/ko/year/:year",
-  "destination": "https://blog.oiyo.net/ko/year/:year?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year",
   "permanent": true
  },
  {
@@ -2359,6 +2359,81 @@
  {
   "source": "/kbd/:path*",
   "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kbd",
+  "permanent": true
+ },
+ {
+  "source": "/barcodeGenerator",
+  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "permanent": true
+ },
+ {
+  "source": "/egogram",
+  "destination": "https://oiyo.net/ko/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
+  "source": "/egogram/test",
+  "destination": "https://oiyo.net/ko/egogram-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=egogram-test",
+  "permanent": true
+ },
+ {
+  "source": "/compound2",
+  "destination": "https://blog.oiyo.net/ko/compound2-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=compound2-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/color-converter",
+  "destination": "https://blog.oiyo.net/ko/tool-color-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-color-converter",
+  "permanent": true
+ },
+ {
+  "source": "/comstyle",
+  "destination": "https://oiyo.net/ko/communication-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
+  "permanent": true
+ },
+ {
+  "source": "/blackjack/play",
+  "destination": "https://blog.oiyo.net/ko/blackjack-probability-decision?utm_source=ahoxy&utm_medium=redirect&utm_campaign=blackjack-probability-decision",
+  "permanent": true
+ },
+ {
+  "source": "/business-type",
+  "destination": "https://blog.oiyo.net/ko/psychology-career-values-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-career-values-test",
+  "permanent": true
+ },
+ {
+  "source": "/dog-vision",
+  "destination": "https://blog.oiyo.net/ko/dog-vision-simulator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dog-vision-simulator",
+  "permanent": true
+ },
+ {
+  "source": "/compatibility",
+  "destination": "https://oiyo.net/ko/compatibility-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=compatibility-test",
+  "permanent": true
+ },
+ {
+  "source": "/riasec/test",
+  "destination": "https://oiyo.net/ko/riasec-career-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test",
+  "permanent": true
+ },
+ {
+  "source": "/en/",
+  "destination": "https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
+  "permanent": true
+ },
+ {
+  "source": "/ko/",
+  "destination": "https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
+  "permanent": true
+ },
+ {
+  "source": "/ja/",
+  "destination": "https://oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
+  "permanent": true
+ },
+ {
+  "source": "/es/",
+  "destination": "https://oiyo.net/es/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
   "permanent": true
  }
 ]
