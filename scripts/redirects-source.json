@@ -1836,12 +1836,12 @@
  },
  {
   "source": "/:locale/animal-pop",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "destination": "https://game.oiyo.net/:locale/animal-pop?utm_source=ahoxy&utm_medium=redirect&utm_campaign=animal-pop",
   "permanent": true
  },
  {
   "source": "/:locale/animal-pop/:path*",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "destination": "https://game.oiyo.net/:locale/animal-pop?utm_source=ahoxy&utm_medium=redirect&utm_campaign=animal-pop",
   "permanent": true
  },
  {
