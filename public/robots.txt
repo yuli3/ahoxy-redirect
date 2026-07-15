@@ -2,3 +2,5 @@
 # can discover the 301s and transfer equity to the oiyo family.
 User-agent: *
 Allow: /
+
+Sitemap: https://ahoxy.com/sitemap.xml
