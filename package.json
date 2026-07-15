@@ -7,7 +7,10 @@
     "dev": "astro dev",
     "build": "node scripts/generate-redirects.mjs && astro build",
     "preview": "astro preview",
-    "redirects": "node scripts/generate-redirects.mjs"
+    "redirects": "node scripts/generate-redirects.mjs",
+    "audit:redirects": "python3 ../docs/audit-ahoxy-redirects.py",
+    "lint": "node --check scripts/generate-redirects.mjs",
+    "test": "npm run audit:redirects"
   },
   "dependencies": {
     "astro": "^5.0.0"

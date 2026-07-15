@@ -286,7 +286,7 @@
  },
  {
   "source": "/:locale/digital-wellbeing",
-  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "destination": "https://oiyo.net/:locale/digital-balance-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=digital-balance-test",
   "permanent": true
  },
  {
@@ -1121,7 +1121,7 @@
  },
  {
   "source": "/:locale/menu",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://oiyo.net/:locale/menu/roulette?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
   "permanent": true
  },
  {
@@ -1151,12 +1151,12 @@
  },
  {
   "source": "/:locale/empathy-test",
-  "destination": "https://blog.oiyo.net/ko/psychology-empathy-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-empathy-test",
+  "destination": "https://oiyo.net/:locale/empathy/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=empathy-test",
   "permanent": true
  },
  {
   "source": "/:locale/empathy-test/:path*",
-  "destination": "https://blog.oiyo.net/ko/psychology-empathy-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-empathy-test",
+  "destination": "https://oiyo.net/:locale/empathy/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=empathy-test",
   "permanent": true
  },
  {
@@ -1166,22 +1166,22 @@
  },
  {
   "source": "/:locale/mbti",
-  "destination": "https://blog.oiyo.net/ko/psychology-full-mbti-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-full-mbti-test",
+  "destination": "https://oiyo.net/:locale/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
   "permanent": true
  },
  {
   "source": "/:locale/mbti/:path*",
-  "destination": "https://blog.oiyo.net/ko/psychology-full-mbti-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-full-mbti-test",
+  "destination": "https://oiyo.net/:locale/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
   "permanent": true
  },
  {
   "source": "/:locale/animal-type",
-  "destination": "https://blog.oiyo.net/ko/psychology-animal-type-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-animal-type-test",
+  "destination": "https://oiyo.net/:locale/animal-personality-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=animal-personality-test",
   "permanent": true
  },
  {
   "source": "/:locale/animal-type/:path*",
-  "destination": "https://blog.oiyo.net/ko/psychology-animal-type-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-animal-type-test",
+  "destination": "https://oiyo.net/:locale/animal-personality-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=animal-personality-test",
   "permanent": true
  },
  {
@@ -1206,12 +1206,12 @@
  },
  {
   "source": "/:locale/chimp-test",
-  "destination": "https://blog.oiyo.net/ko/game-chimp-memory-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-chimp-memory-test",
+  "destination": "https://oiyo.net/:locale/chimp-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=chimp-test",
   "permanent": true
  },
  {
   "source": "/:locale/chimp-test/:path*",
-  "destination": "https://blog.oiyo.net/ko/game-chimp-memory-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-chimp-memory-test",
+  "destination": "https://oiyo.net/:locale/chimp-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=chimp-test",
   "permanent": true
  },
  {
@@ -1225,7 +1225,7 @@
   "permanent": true
  },
  {
-  "source": "/:locale/kbd",
+  "source": "/:locale(en|ja|es)/kbd",
   "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test",
   "permanent": true
  },
@@ -1646,12 +1646,12 @@
  },
  {
   "source": "/:locale/comstyle",
-  "destination": "https://blog.oiyo.net/:locale/communication-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
+  "destination": "https://oiyo.net/:locale/communication-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
   "permanent": true
  },
  {
   "source": "/:locale/comstyle/:path*",
-  "destination": "https://blog.oiyo.net/:locale/communication-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
+  "destination": "https://oiyo.net/:locale/communication-style-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
   "permanent": true
  },
  {
@@ -1886,12 +1886,12 @@
  },
  {
   "source": "/:locale/kurodoko",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "destination": "https://game.oiyo.net/:locale/kurodoko?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kurodoko",
   "permanent": true
  },
  {
   "source": "/:locale/kurodoko/:path*",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games",
+  "destination": "https://game.oiyo.net/:locale/kurodoko?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kurodoko",
   "permanent": true
  },
  {
