@@ -8,7 +8,7 @@
     "build": "node scripts/generate-redirects.mjs && astro build",
     "preview": "astro preview",
     "redirects": "node scripts/generate-redirects.mjs",
-    "audit:redirects": "python3 ../docs/audit-ahoxy-redirects.py && node scripts/audit-sitemap.mjs",
+    "audit:redirects": "python3 scripts/audit-redirects.py && node scripts/audit-sitemap.mjs",
     "lint": "node --check scripts/generate-redirects.mjs",
     "test": "npm run audit:redirects"
   },

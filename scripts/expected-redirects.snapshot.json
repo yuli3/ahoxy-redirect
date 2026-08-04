@@ -1,0 +1,177 @@
+{
+  "_comment": [
+    "FROZEN SNAPSHOT. Generated 2026-08-04 from coding/docs/route-ownership.json by",
+    "docs/audit-ahoxy-redirects.py::expected_redirect_specs().",
+    "ahoxy.com is a finished redirect shell that no longer changes, so freezing the",
+    "expectations here is more accurate than re-deriving them - and it lets ahoxy CI",
+    "run without the coding/ monorepo checked out.",
+    "If an oiyo canonical URL ever moves, this snapshot will NOT notice. Regenerate with:",
+    "  python3 scripts/regenerate-snapshot.py   (requires the coding/ repo alongside)"
+  ],
+  "generatedAt": "2026-08-04",
+  "sourceManifest": "coding/docs/route-ownership.json",
+  "specs": [
+    {
+      "routeId": "oiyo.saju.calculator",
+      "source": "/:locale/saju",
+      "target": "https://oiyo.net/{locale}/saju/calculator",
+      "campaign": "saju"
+    },
+    {
+      "routeId": "blog.height-converter",
+      "source": "/:locale/height-converter",
+      "target": "https://blog.oiyo.net/{locale}/height-converter",
+      "campaign": "height-converter"
+    },
+    {
+      "routeId": "ahoxy.height-converter.legacy-source",
+      "source": "/:locale/height-converter",
+      "target": "https://blog.oiyo.net/{locale}/height-converter",
+      "campaign": "height-converter"
+    },
+    {
+      "routeId": "blog.percent-converter",
+      "source": "/:locale/percent-converter",
+      "target": "https://blog.oiyo.net/{locale}/percent-converter",
+      "campaign": "percent-converter"
+    },
+    {
+      "routeId": "ahoxy.percent-converter.legacy-source",
+      "source": "/:locale/percent-converter",
+      "target": "https://blog.oiyo.net/{locale}/percent-converter",
+      "campaign": "percent-converter"
+    },
+    {
+      "routeId": "blog.angle-converter",
+      "source": "/:locale/angle-converter",
+      "target": "https://blog.oiyo.net/{locale}/angle-converter",
+      "campaign": "angle-converter"
+    },
+    {
+      "routeId": "ahoxy.angle-converter.legacy-source",
+      "source": "/:locale/angle-converter",
+      "target": "https://blog.oiyo.net/{locale}/angle-converter",
+      "campaign": "angle-converter"
+    },
+    {
+      "routeId": "blog.fraction-converter",
+      "source": "/:locale/fraction-converter",
+      "target": "https://blog.oiyo.net/{locale}/fraction-converter",
+      "campaign": "fraction-converter"
+    },
+    {
+      "routeId": "ahoxy.fraction-converter.legacy-source",
+      "source": "/:locale/fraction-converter",
+      "target": "https://blog.oiyo.net/{locale}/fraction-converter",
+      "campaign": "fraction-converter"
+    },
+    {
+      "routeId": "blog.scientific-notation",
+      "source": "/:locale/scientific-notation",
+      "target": "https://blog.oiyo.net/{locale}/scientific-notation-converter",
+      "campaign": "scientific-notation"
+    },
+    {
+      "routeId": "ahoxy.scientific-notation.legacy-source",
+      "source": "/:locale/scientific-notation",
+      "target": "https://blog.oiyo.net/{locale}/scientific-notation-converter",
+      "campaign": "scientific-notation"
+    },
+    {
+      "routeId": "ahoxy.hex-converter.legacy-source",
+      "source": "/:locale/hex-converter",
+      "target": "https://blog.oiyo.net/{locale}/color-converter",
+      "campaign": "hex-converter"
+    },
+    {
+      "routeId": "ahoxy.resolution.legacy-source",
+      "source": "/:locale/resolution",
+      "target": "https://blog.oiyo.net/{locale}/aspect-ratio-calculator",
+      "campaign": "resolution"
+    },
+    {
+      "routeId": "blog.number-converter",
+      "source": "/:locale/number-converter",
+      "target": "https://blog.oiyo.net/{locale}/number-base-converter",
+      "campaign": "number-converter"
+    },
+    {
+      "routeId": "ahoxy.number-converter.legacy-source",
+      "source": "/:locale/number-converter",
+      "target": "https://blog.oiyo.net/{locale}/number-base-converter",
+      "campaign": "number-converter"
+    },
+    {
+      "routeId": "blog.ratio",
+      "source": "/:locale/ratio",
+      "target": "https://blog.oiyo.net/{locale}/ratio-calculator",
+      "campaign": "ratio"
+    },
+    {
+      "routeId": "ahoxy.ratio.legacy-source",
+      "source": "/:locale/ratio",
+      "target": "https://blog.oiyo.net/{locale}/ratio-calculator",
+      "campaign": "ratio"
+    },
+    {
+      "routeId": "blog.universal-converter",
+      "source": "/:locale/universal-converter",
+      "target": "https://blog.oiyo.net/{locale}/universal-converter",
+      "campaign": "universal-converter"
+    },
+    {
+      "routeId": "ahoxy.universal-converter.legacy-source",
+      "source": "/:locale/universal-converter",
+      "target": "https://blog.oiyo.net/{locale}/universal-converter",
+      "campaign": "universal-converter"
+    },
+    {
+      "routeId": "blog.birth-year.index",
+      "source": "/ko/year",
+      "target": "https://blog.oiyo.net/ko/year",
+      "campaign": "year"
+    },
+    {
+      "routeId": "blog.birth-year.detail",
+      "source": "/ko/year/:year",
+      "target": "https://blog.oiyo.net/ko/year/{year}",
+      "campaign": "year"
+    },
+    {
+      "routeId": "ahoxy.birth-year.legacy-source",
+      "source": "/ko/year",
+      "target": "https://blog.oiyo.net/ko/year",
+      "campaign": "year"
+    },
+    {
+      "routeId": "ahoxy.name.legacy-source",
+      "source": "/:locale/name",
+      "target": "https://blog.oiyo.net/{locale}/baby-name-generator",
+      "campaign": "baby-name-generator"
+    },
+    {
+      "routeId": "ahoxy.age-calculator.legacy-source",
+      "source": "/:locale/age-calculator",
+      "target": "https://blog.oiyo.net/{locale}/age-calculator",
+      "campaign": "age-calculator"
+    },
+    {
+      "routeId": "ahoxy.age-calculator.legacy-source",
+      "source": "/:locale/ageCalculator",
+      "target": "https://blog.oiyo.net/{locale}/age-calculator",
+      "campaign": "age-calculator"
+    },
+    {
+      "routeId": "ahoxy.brokerage-fee.legacy-source",
+      "source": "/:locale/brokerage-fee",
+      "target": "https://blog.oiyo.net/{locale}/brokerage-calculator",
+      "campaign": "brokerage-calculator"
+    },
+    {
+      "routeId": "ahoxy.blog-saju.legacy-source",
+      "source": "/:locale/blog/saju",
+      "target": "https://blog.oiyo.net/{locale}/tool-saju-calculator",
+      "campaign": "tool-saju-calculator"
+    }
+  ]
+}

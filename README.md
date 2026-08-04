@@ -16,10 +16,28 @@ Next.js+Vercel → **Astro+Cloudflare Pages** 이전 (2026-07-03). ahoxy는 이�
 
 매핑 변경 시 `scripts/redirects-source.json` 수정 → `npm run redirects` (빌드에 자동 포함).
 
+## 검증 (2026-08-04: 자립화)
+
+`npm run audit:redirects`는 **이 저장소 안의 파일만** 읽는다.
+
+- `scripts/audit-redirects.py` — 리다이렉트 감사
+- `scripts/expected-redirects.snapshot.json` — **동결된 기대값 27건**. 출처는 `coding/docs/route-ownership.json`이며, ahoxy는 더 이상 변하지 않는 쉘이라 매번 재도출하지 않고 얼려 둔다
+- `scripts/audit-sitemap.mjs` — 사이트맵 감사
+
+> 이전에는 `python3 ../docs/audit-ahoxy-redirects.py`를 호출했다. 그 파일은 이 저장소 **밖**(monorepo `coding/docs/`)에 있어 GitHub Actions 체크아웃에 존재하지 않았고, **2026-07-30부터 CI가 계속 실패**하고 있었다. 로컬에서만 통과하는 가짜 게이트였다.
+
+**받아들인 대가**: oiyo canonical URL이 바뀌어도 이 감사는 알아채지 못한다. 그때는 `coding/` monorepo를 옆에 두고 `python3 scripts/regenerate-snapshot.py`를 돌린다.
+
 ## 로컬
 
 ```bash
 npm install && npm run build   # dist/ 에 _redirects + index + 404
+```
+
+이 저장소는 로컬 `coding/ahoxy/`에서 제거될 수 있다(2026-08-04 결정). 필요하면 다시 받는다:
+
+```bash
+git clone https://github.com/yuli3/ahoxy-redirect.git
 ```
 
 ## 컷오버 (사용자, 순서 중요)
