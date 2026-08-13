@@ -726,9 +726,10 @@
 /en/aim-trainer https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer 301
 /ja/aim-trainer https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer 301
 /es/aim-trainer https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer 301
-/en/kbd https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
-/ja/kbd https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
-/es/kbd https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
+/ko/kbd https://game.oiyo.net/ko/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern 301
+/en/kbd https://game.oiyo.net/en/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern 301
+/ja/kbd https://game.oiyo.net/ja/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern 301
+/es/kbd https://game.oiyo.net/es/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern 301
 /ko/kbd2 https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
 /en/kbd2 https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
 /ja/kbd2 https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
@@ -1171,7 +1172,7 @@
 /ja/terms https://blog.oiyo.net/ja/terms?utm_source=ahoxy&utm_medium=redirect&utm_campaign=terms 301
 /es/terms https://blog.oiyo.net/es/terms?utm_source=ahoxy&utm_medium=redirect&utm_campaign=terms 301
 /q1q3 https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
-/kbd https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kbd 301
+/kbd https://game.oiyo.net/ko/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern 301
 /barcodeGenerator https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities 301
 /egogram https://oiyo.net/ko/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
 /egogram/test https://oiyo.net/ko/egogram-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=egogram-test 301

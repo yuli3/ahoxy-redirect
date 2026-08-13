@@ -3,19 +3,27 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
+/**
+ * ahoxy.com is a pure redirect shell. Until 2026-08-12 it still served one real
+ * page — the 아재패턴 trainer at /ko/kbd — and this audit asserted the sitemap
+ * listed exactly that URL. The trainer now lives at
+ * game.oiyo.net/:locale/lostark-ajae-pattern and /ko/kbd 301s to it, so there is
+ * nothing left to index and the sitemap is gone.
+ *
+ * Crawling must stay allowed: the whole point of the shell is that search
+ * engines read the 301s and move the equity to the family.
+ */
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const sitemap = fs.readFileSync(path.join(root, "public/sitemap.xml"), "utf8");
 const robots = fs.readFileSync(path.join(root, "public/robots.txt"), "utf8");
-const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => match[1]);
 
-if (urls.length !== 1 || urls[0] !== "https://ahoxy.com/ko/kbd/") {
-  throw new Error(`Ahoxy sitemap must contain only the indexable kbd route; got ${JSON.stringify(urls)}`);
+if (fs.existsSync(path.join(root, "public/sitemap.xml"))) {
+  throw new Error("this shell has no indexable page; a sitemap would advertise redirects");
 }
-if (!robots.includes("Sitemap: https://ahoxy.com/sitemap.xml")) {
-  throw new Error("robots.txt must advertise the canonical sitemap");
+if (/^\s*Sitemap:/m.test(robots)) {
+  throw new Error("robots.txt still advertises a sitemap that no longer exists");
 }
-if (/utm_|\/404|https:\/\/ahoxy\.com\/$/.test(sitemap)) {
-  throw new Error("redirect, bridge, or tracking URL leaked into sitemap");
+if (!/^\s*Allow:\s*\/\s*$/m.test(robots)) {
+  throw new Error("crawling must stay allowed so the 301s can be discovered");
 }
 
-console.log("Ahoxy sitemap audit: PASS (1 indexable URL; no bridge/redirect URLs)");
+console.log("Ahoxy sitemap audit: PASS (redirect shell, no indexable URL, crawling allowed)");

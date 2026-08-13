@@ -1225,8 +1225,8 @@
   "permanent": true
  },
  {
-  "source": "/:locale(en|ja|es)/kbd",
-  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test",
+  "source": "/:locale(ko|en|ja|es)/kbd",
+  "destination": "https://game.oiyo.net/:locale/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern",
   "permanent": true
  },
  {
@@ -2353,12 +2353,12 @@
  },
  {
   "source": "/kbd",
-  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kbd",
+  "destination": "https://game.oiyo.net/ko/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern",
   "permanent": true
  },
  {
   "source": "/kbd/:path*",
-  "destination": "https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kbd",
+  "destination": "https://game.oiyo.net/ko/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern",
   "permanent": true
  },
  {

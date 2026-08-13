@@ -3,4 +3,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahoxy.com/sitemap.xml
+# No sitemap: after the 아재패턴 trainer moved to game.oiyo.net on 2026-08-12
+# this domain has no indexable page left. Advertising an empty sitemap would
+# only earn a 'couldn't fetch' warning; the 301s above are what should be read.
