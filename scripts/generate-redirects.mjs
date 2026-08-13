@@ -23,7 +23,13 @@ const dynLines = new Map(); // named placeholder rules only (few)
 const prefixMap = new Map(); // 404 스텁용: pathPrefix -> destination
 
 function addStatic(src, dest) {
-  // 트레일링 슬래시 변형은 별도 룰로 만들지 않는다 — Cloudflare 정규화 + 404 스텁이 커버 (2,000 한도 절약)
+  // 트레일링 슬래시 변형은 기본적으로 만들지 않는다 (2,000 한도 절약).
+  // ⚠️ 2026-08-12 실측으로 전제 하나가 반증됐다: Cloudflare는 여기서 트레일링
+  // 슬래시를 정규화하지 **않는다**. `/aim-trainer/`·`/gomoku/`는 301이 아니라
+  // 404 스텁을 받는다. 사람에게는 "moved" 안내가 보이지만 HTTP 상태는 404라
+  // 검색엔진에는 순위가 이전되지 않는다.
+  // → 실제로 순위가 잡혀 있는 경로는 `/…/` 형태를 redirects-source.json 에
+  //   **명시적으로** 넣어야 한다. 나머지는 404 스텁으로 남겨 한도를 아낀다.
   if (!staticLines.has(src)) staticLines.set(src, `${src} ${dest} 301`);
 }
 
