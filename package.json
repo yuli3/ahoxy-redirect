@@ -5,12 +5,13 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/generate-redirects.mjs && astro build",
+    "build": "node scripts/generate-redirects.mjs && node scripts/generate-sitemap.mjs && astro build",
     "preview": "astro preview",
     "redirects": "node scripts/generate-redirects.mjs",
     "audit:redirects": "python3 scripts/audit-redirects.py && node scripts/audit-sitemap.mjs",
     "lint": "node --check scripts/generate-redirects.mjs",
-    "test": "npm run audit:redirects"
+    "test": "npm run audit:redirects",
+    "sitemap": "node scripts/generate-sitemap.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0"

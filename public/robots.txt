@@ -3,6 +3,9 @@
 User-agent: *
 Allow: /
 
-# No sitemap: after the 아재패턴 trainer moved to game.oiyo.net on 2026-08-12
-# this domain has no indexable page left. Advertising an empty sitemap would
-# only earn a 'couldn't fetch' warning; the 301s above are what should be read.
+# The sitemap lists URLs that 301 — on purpose. This host answered Googlebot
+# with 403 from ~2026-07-11 to 2026-08-13 (Bot Fight Mode), so none of these
+# redirects were ever read. Listing the old URLs is Google's own site-move
+# lever for getting them re-fetched. Entries will show as 'Page with redirect'
+# in Search Console; that is the intended outcome. Retire once equity has moved.
+Sitemap: https://ahoxy.com/sitemap.xml
