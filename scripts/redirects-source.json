@@ -21,12 +21,12 @@
  },
  {
   "source": "/tier",
-  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "destination": "https://game.oiyo.net/ko/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list",
   "permanent": true
  },
  {
   "source": "/tier/:path*",
-  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "destination": "https://game.oiyo.net/ko/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list",
   "permanent": true
  },
  {
@@ -1256,7 +1256,7 @@
  },
  {
   "source": "/:locale/tier",
-  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "destination": "https://game.oiyo.net/:locale/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list",
   "permanent": true
  },
  {

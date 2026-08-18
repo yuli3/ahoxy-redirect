@@ -64,8 +64,8 @@ CRITICAL_REDIRECTS = [
     {
         "routeId": "critical.ahoxy.root.tier",
         "source": "/tier",
-        "target": "https://blog.oiyo.net/ko/game-tier-list",
-        "campaign": "game-tier-list",
+        "target": "https://game.oiyo.net/ko/tier-list",
+        "campaign": "tier-list",
     },
     {
         "routeId": "critical.ahoxy.root.minesweeper",

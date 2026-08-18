@@ -2,7 +2,7 @@
 # 정확매치=엣지 301 · 서브경로=404 스텁(redirect-map.json 프리픽스 매치)
 /aim-trainer https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer 301
 /gomoku https://game.oiyo.net/ko/gomoku?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku 301
-/tier https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list 301
+/tier https://game.oiyo.net/ko/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
 /minesweeper https://game.oiyo.net/ko/minesweeper?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper 301
 /wordle https://game.oiyo.net/ko/wordle?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
 /kbd2 https://blog.oiyo.net/ko/game-keyboard-reaction-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
@@ -747,10 +747,10 @@
 /en/connect-four https://blog.oiyo.net/ko/game-connect-four?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
 /ja/connect-four https://blog.oiyo.net/ko/game-connect-four?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
 /es/connect-four https://blog.oiyo.net/ko/game-connect-four?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
-/ko/tier https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list 301
-/en/tier https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list 301
-/ja/tier https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list 301
-/es/tier https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list 301
+/ko/tier https://game.oiyo.net/ko/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
+/en/tier https://game.oiyo.net/en/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
+/ja/tier https://game.oiyo.net/ja/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
+/es/tier https://game.oiyo.net/es/tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
 /ko/typing-test https://blog.oiyo.net/ko/typing-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test 301
 /en/typing-test https://blog.oiyo.net/en/typing-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test 301
 /ja/typing-test https://blog.oiyo.net/ja/typing-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test 301
