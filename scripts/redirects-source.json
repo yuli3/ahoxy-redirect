@@ -926,7 +926,7 @@
  },
  {
   "source": "/:locale/lightup",
-  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "destination": "https://game.oiyo.net/:locale/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up",
   "permanent": true
  },
  {
@@ -941,7 +941,7 @@
  },
  {
   "source": "/:locale/snake",
-  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "destination": "https://game.oiyo.net/:locale/snake-game?utm_source=ahoxy&utm_medium=redirect&utm_campaign=snake-game",
   "permanent": true
  },
  {
@@ -961,7 +961,7 @@
  },
  {
   "source": "/:locale/water-sort",
-  "destination": "https://blog.oiyo.net/ko/game-tier-list?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-tier-list",
+  "destination": "https://game.oiyo.net/:locale/water-sort?utm_source=ahoxy&utm_medium=redirect&utm_campaign=water-sort",
   "permanent": true
  },
  {
