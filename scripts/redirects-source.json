@@ -1186,12 +1186,12 @@
  },
  {
   "source": "/:locale/riasec",
-  "destination": "https://blog.oiyo.net/ko/riasec-career-complete-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-complete-guide",
+  "destination": "https://oiyo.net/:locale/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test",
   "permanent": true
  },
  {
   "source": "/:locale/riasec/:path*",
-  "destination": "https://blog.oiyo.net/ko/riasec-career-complete-guide?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-complete-guide",
+  "destination": "https://oiyo.net/:locale/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test",
   "permanent": true
  },
  {
