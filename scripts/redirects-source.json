@@ -2372,6 +2372,16 @@
   "permanent": true
  },
  {
+  "source": "/lightup",
+  "destination": "https://game.oiyo.net/ko/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up",
+  "permanent": true
+ },
+ {
+  "source": "/lightup/:path*",
+  "destination": "https://game.oiyo.net/ko/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up",
+  "permanent": true
+ },
+ {
   "source": "/barcodeGenerator",
   "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
   "permanent": true
