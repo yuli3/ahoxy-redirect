@@ -446,12 +446,12 @@
  },
  {
   "source": "/:locale/dday",
-  "destination": "https://blog.oiyo.net/:locale/tool-dday-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-dday-calculator",
+  "destination": "https://blog.oiyo.net/:locale/dday-counter/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dday-counter",
   "permanent": true
  },
  {
   "source": "/:locale/dday/:path*",
-  "destination": "https://blog.oiyo.net/:locale/tool-dday-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-dday-calculator",
+  "destination": "https://blog.oiyo.net/:locale/dday-counter/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dday-counter",
   "permanent": true
  },
  {

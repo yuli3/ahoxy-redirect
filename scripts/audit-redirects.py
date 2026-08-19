@@ -203,8 +203,8 @@ CRITICAL_REDIRECTS = [
     {
         "routeId": "critical.ahoxy.locale.dday",
         "source": "/:locale/dday",
-        "target": "https://blog.oiyo.net/{locale}/tool-dday-calculator",
-        "campaign": "tool-dday-calculator",
+        "target": "https://blog.oiyo.net/{locale}/dday-counter",
+        "campaign": "dday-counter",
         "trailingSlash": True,
     },
     {
