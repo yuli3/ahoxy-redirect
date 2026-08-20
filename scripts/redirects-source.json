@@ -95,6 +95,11 @@
   "permanent": true
  },
  {
+  "source": "/height-converter/",
+  "destination": "https://blog.oiyo.net/en/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
+  "permanent": true
+ },
+ {
   "source": "/height-converter/:path*",
   "destination": "https://blog.oiyo.net/en/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
   "permanent": true
@@ -536,6 +541,11 @@
  },
  {
   "source": "/:locale/saju",
+  "destination": "https://oiyo.net/:locale/saju/calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=saju",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/saju/",
   "destination": "https://oiyo.net/:locale/saju/calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=saju",
   "permanent": true
  },
@@ -1190,6 +1200,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/riasec/",
+  "destination": "https://oiyo.net/:locale/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test",
+  "permanent": true
+ },
+ {
   "source": "/:locale/riasec/:path*",
   "destination": "https://oiyo.net/:locale/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test",
   "permanent": true
@@ -1286,6 +1301,11 @@
  },
  {
   "source": "/:locale/height-converter",
+  "destination": "https://blog.oiyo.net/:locale/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/height-converter/",
   "destination": "https://blog.oiyo.net/:locale/height-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=height-converter",
   "permanent": true
  },
@@ -2000,6 +2020,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/age-calculator/",
+  "destination": "https://blog.oiyo.net/:locale/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
+  "permanent": true
+ },
+ {
   "source": "/:locale/age-calculator/:path*",
   "destination": "https://blog.oiyo.net/:locale/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
   "permanent": true
@@ -2389,6 +2414,16 @@
  {
   "source": "/perfectscope/:path*",
   "destination": "https://oiyo.net/ko/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
+  "permanent": true
+ },
+ {
+  "source": "/ageCalculator",
+  "destination": "https://blog.oiyo.net/en/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/ageCalculator/",
+  "destination": "https://blog.oiyo.net/en/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
   "permanent": true
  },
  {
