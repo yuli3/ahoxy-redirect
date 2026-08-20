@@ -2382,6 +2382,16 @@
   "permanent": true
  },
  {
+  "source": "/perfectscope",
+  "destination": "https://oiyo.net/ko/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
+  "permanent": true
+ },
+ {
+  "source": "/perfectscope/:path*",
+  "destination": "https://oiyo.net/ko/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
+  "permanent": true
+ },
+ {
   "source": "/barcodeGenerator",
   "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
   "permanent": true
