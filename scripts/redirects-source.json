@@ -2535,5 +2535,45 @@
   "source": "/es/",
   "destination": "https://oiyo.net/es/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration",
   "permanent": true
+ },
+ {
+  "source": "/en/eq-insight/test",
+  "destination": "https://oiyo.net/en/eq/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=eq-test",
+  "permanent": true
+ },
+ {
+  "source": "/en/eq-insight/test/",
+  "destination": "https://oiyo.net/en/eq/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=eq-test",
+  "permanent": true
+ },
+ {
+  "source": "/en/jeonse-guarantee/",
+  "destination": "https://blog.oiyo.net/ko/tool-jeonse-guarantee-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-jeonse-guarantee-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/en/ratio/custom",
+  "destination": "https://blog.oiyo.net/en/ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio",
+  "permanent": true
+ },
+ {
+  "source": "/en/ratio/custom/",
+  "destination": "https://blog.oiyo.net/en/ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio",
+  "permanent": true
+ },
+ {
+  "source": "/en/mindrest/",
+  "destination": "https://blog.oiyo.net/en/burnout-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=burnout-test",
+  "permanent": true
+ },
+ {
+  "source": "/es/legal-docs-generator/",
+  "destination": "https://blog.oiyo.net/es/legal-docs-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=legal-docs-generator",
+  "permanent": true
+ },
+ {
+  "source": "/es/mbti-stress-relief/",
+  "destination": "https://oiyo.net/es/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
  }
 ]
