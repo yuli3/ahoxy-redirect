@@ -1760,6 +1760,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/tent-tree-puzzle/",
+  "destination": "https://game.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
+  "permanent": true
+ },
+ {
   "source": "/:locale/tent-tree-puzzle/:path*",
   "destination": "https://game.oiyo.net/:locale/tents-and-trees?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tents-and-trees",
   "permanent": true
@@ -1920,6 +1925,21 @@
   "permanent": true
  },
  {
+  "source": "/:locale/kurodoko/",
+  "destination": "https://game.oiyo.net/:locale/kurodoko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kurodoko",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/kurodoko/play",
+  "destination": "https://game.oiyo.net/:locale/kurodoko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kurodoko",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/kurodoko/play/",
+  "destination": "https://game.oiyo.net/:locale/kurodoko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kurodoko",
+  "permanent": true
+ },
+ {
   "source": "/:locale/kurodoko/:path*",
   "destination": "https://game.oiyo.net/:locale/kurodoko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=kurodoko",
   "permanent": true
@@ -2041,6 +2061,11 @@
  },
  {
   "source": "/:locale/brokerage-fee",
+  "destination": "https://blog.oiyo.net/:locale/brokerage-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=brokerage-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/brokerage-fee/",
   "destination": "https://blog.oiyo.net/:locale/brokerage-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=brokerage-calculator",
   "permanent": true
  },
@@ -2424,6 +2449,16 @@
  {
   "source": "/ageCalculator/",
   "destination": "https://blog.oiyo.net/en/age-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=age-calculator",
+  "permanent": true
+ },
+ {
+  "source": "/insightquest",
+  "destination": "https://oiyo.net/ko/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
+ },
+ {
+  "source": "/insightquest/",
+  "destination": "https://oiyo.net/ko/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
   "permanent": true
  },
  {
