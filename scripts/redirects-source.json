@@ -220,6 +220,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/self-esteem-compass/",
+  "destination": "https://oiyo.net/:locale/self-esteem/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=self-esteem-test",
+  "permanent": true
+ },
+ {
   "source": "/:locale/self-esteem-compass/:path*",
   "destination": "https://oiyo.net/:locale/self-esteem/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=self-esteem-test",
   "permanent": true
@@ -275,6 +280,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/compatibility/",
+  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
+  "permanent": true
+ },
+ {
   "source": "/:locale/decision-lens",
   "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests",
   "permanent": true
@@ -291,6 +301,11 @@
  },
  {
   "source": "/:locale/digital-wellbeing",
+  "destination": "https://oiyo.net/:locale/digital-balance-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=digital-balance-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/digital-wellbeing/",
   "destination": "https://oiyo.net/:locale/digital-balance-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=digital-balance-test",
   "permanent": true
  },
@@ -366,6 +381,11 @@
  },
  {
   "source": "/:locale/perfectscope",
+  "destination": "https://oiyo.net/:locale/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/perfectscope/",
   "destination": "https://oiyo.net/:locale/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
   "permanent": true
  },
@@ -455,6 +475,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/dday/",
+  "destination": "https://blog.oiyo.net/:locale/dday-counter/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dday-counter",
+  "permanent": true
+ },
+ {
   "source": "/:locale/dday/:path*",
   "destination": "https://blog.oiyo.net/:locale/dday-counter/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dday-counter",
   "permanent": true
@@ -521,6 +546,11 @@
  },
  {
   "source": "/:locale/morsecode",
+  "destination": "https://blog.oiyo.net/ko/tool-morse-code-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-morse-code-converter",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/morsecode/",
   "destination": "https://blog.oiyo.net/ko/tool-morse-code-converter?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-morse-code-converter",
   "permanent": true
  },
@@ -645,6 +675,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/dutch-pay/",
+  "destination": "https://blog.oiyo.net/:locale/dutch-pay-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dutch-pay",
+  "permanent": true
+ },
+ {
   "source": "/:locale/early-repayment",
   "destination": "https://blog.oiyo.net/ko/tool-career-finance-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-career-finance-tools",
   "permanent": true
@@ -761,6 +796,11 @@
  },
  {
   "source": "/:locale/lotto",
+  "destination": "https://blog.oiyo.net/:locale/lotto-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lotto",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lotto/",
   "destination": "https://blog.oiyo.net/:locale/lotto-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lotto",
   "permanent": true
  },
@@ -941,6 +981,11 @@
  },
  {
   "source": "/:locale/lightup",
+  "destination": "https://game.oiyo.net/:locale/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/lightup/",
   "destination": "https://game.oiyo.net/:locale/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up",
   "permanent": true
  },
@@ -1140,6 +1185,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/menu/",
+  "destination": "https://oiyo.net/:locale/menu/roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
+  "permanent": true
+ },
+ {
   "source": "/:locale/vocab",
   "destination": "https://blog.oiyo.net/ko/tool-education-tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-education-tools",
   "permanent": true
@@ -1170,6 +1220,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/empathy-test/",
+  "destination": "https://oiyo.net/:locale/empathy/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=empathy-test",
+  "permanent": true
+ },
+ {
   "source": "/:locale/empathy-test/:path*",
   "destination": "https://oiyo.net/:locale/empathy/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=empathy-test",
   "permanent": true
@@ -1185,12 +1240,22 @@
   "permanent": true
  },
  {
+  "source": "/:locale/mbti/",
+  "destination": "https://oiyo.net/:locale/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
+  "permanent": true
+ },
+ {
   "source": "/:locale/mbti/:path*",
   "destination": "https://oiyo.net/:locale/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-test",
   "permanent": true
  },
  {
   "source": "/:locale/animal-type",
+  "destination": "https://oiyo.net/:locale/animal-personality-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=animal-personality-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/animal-type/",
   "destination": "https://oiyo.net/:locale/animal-personality-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=animal-personality-test",
   "permanent": true
  },
@@ -1230,12 +1295,22 @@
   "permanent": true
  },
  {
+  "source": "/:locale/chimp-test/",
+  "destination": "https://oiyo.net/:locale/chimp-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=chimp-test",
+  "permanent": true
+ },
+ {
   "source": "/:locale/chimp-test/:path*",
   "destination": "https://oiyo.net/:locale/chimp-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=chimp-test",
   "permanent": true
  },
  {
   "source": "/:locale/aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/aim-trainer/",
   "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
@@ -1685,6 +1760,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/comstyle/",
+  "destination": "https://oiyo.net/:locale/communication-style-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
+  "permanent": true
+ },
+ {
   "source": "/:locale/comstyle/:path*",
   "destination": "https://oiyo.net/:locale/communication-style-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=communication-style-test",
   "permanent": true
@@ -1780,6 +1860,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/spinner/",
+  "destination": "https://game.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
+  "permanent": true
+ },
+ {
   "source": "/:locale/spinner/:path*",
   "destination": "https://game.oiyo.net/:locale/wheel-spinner?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner",
   "permanent": true
@@ -1846,6 +1931,11 @@
  },
  {
   "source": "/:locale/face2",
+  "destination": "https://oiyo.net/:locale/personal-color/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/face2/",
   "destination": "https://oiyo.net/:locale/personal-color/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test",
   "permanent": true
  },
@@ -2036,6 +2126,11 @@
  },
  {
   "source": "/:locale/name",
+  "destination": "https://blog.oiyo.net/:locale/baby-name-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=baby-name-generator",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/name/",
   "destination": "https://blog.oiyo.net/:locale/baby-name-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=baby-name-generator",
   "permanent": true
  },
@@ -2452,12 +2547,22 @@
   "permanent": true
  },
  {
+  "source": "/lightup/",
+  "destination": "https://game.oiyo.net/ko/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up",
+  "permanent": true
+ },
+ {
   "source": "/lightup/:path*",
   "destination": "https://game.oiyo.net/ko/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up",
   "permanent": true
  },
  {
   "source": "/perfectscope",
+  "destination": "https://oiyo.net/ko/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
+  "permanent": true
+ },
+ {
+  "source": "/perfectscope/",
   "destination": "https://oiyo.net/ko/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test",
   "permanent": true
  },
@@ -2537,7 +2642,17 @@
   "permanent": true
  },
  {
+  "source": "/compatibility/",
+  "destination": "https://oiyo.net/ko/compatibility-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=compatibility-test",
+  "permanent": true
+ },
+ {
   "source": "/riasec/test",
+  "destination": "https://oiyo.net/ko/riasec-career-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test",
+  "permanent": true
+ },
+ {
+  "source": "/riasec/test/",
   "destination": "https://oiyo.net/ko/riasec-career-test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test",
   "permanent": true
  },
