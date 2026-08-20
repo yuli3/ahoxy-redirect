@@ -227,6 +227,10 @@
 /en/lostarkCalculator https://game.oiyo.net/en/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
 /ja/lostarkCalculator https://game.oiyo.net/ja/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
 /es/lostarkCalculator https://game.oiyo.net/es/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
+/ko/lostarkCalculator/ https://game.oiyo.net/ko/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
+/en/lostarkCalculator/ https://game.oiyo.net/en/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
+/ja/lostarkCalculator/ https://game.oiyo.net/ja/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
+/es/lostarkCalculator/ https://game.oiyo.net/es/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
 /ko/lorem https://blog.oiyo.net/ko/tool-lorem-ipsum-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lorem-ipsum-generator 301
 /en/lorem https://blog.oiyo.net/ko/tool-lorem-ipsum-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lorem-ipsum-generator 301
 /ja/lorem https://blog.oiyo.net/ko/tool-lorem-ipsum-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lorem-ipsum-generator 301
@@ -1068,6 +1072,10 @@
 /en/q1q3 https://game.oiyo.net/en/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
 /ja/q1q3 https://game.oiyo.net/ja/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
 /es/q1q3 https://game.oiyo.net/es/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
+/ko/q1q3/ https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
+/en/q1q3/ https://game.oiyo.net/en/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
+/ja/q1q3/ https://game.oiyo.net/ja/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
+/es/q1q3/ https://game.oiyo.net/es/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
 /ko/quiz https://blog.oiyo.net/ko/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tools 301
 /en/quiz https://blog.oiyo.net/en/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tools 301
 /ja/quiz https://blog.oiyo.net/ja/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tools 301
@@ -1214,6 +1222,7 @@
 /ja/terms https://blog.oiyo.net/ja/terms?utm_source=ahoxy&utm_medium=redirect&utm_campaign=terms 301
 /es/terms https://blog.oiyo.net/es/terms?utm_source=ahoxy&utm_medium=redirect&utm_campaign=terms 301
 /q1q3 https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
+/q1q3/ https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
 /kbd https://game.oiyo.net/ko/lostark-ajae-pattern?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-ajae-pattern 301
 /lightup https://game.oiyo.net/ko/light-up?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up 301
 /perfectscope https://oiyo.net/ko/perfectionism/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test 301
@@ -1253,4 +1262,9 @@
 /en/ratio/:w/:h https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
 /ja/ratio/:w/:h https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
 /es/ratio/:w/:h https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
+/ko/ratio/:w/:h/ https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
+/en/ratio/:w/:h/ https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
+/ja/ratio/:w/:h/ https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
+/es/ratio/:w/:h/ https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
 /ratio/:w/:h https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301
+/ratio/:w/:h/ https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh 301

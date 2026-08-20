@@ -505,6 +505,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/lostarkCalculator/",
+  "destination": "https://game.oiyo.net/:locale/lostark-auction-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction",
+  "permanent": true
+ },
+ {
   "source": "/:locale/lorem",
   "destination": "https://blog.oiyo.net/ko/tool-lorem-ipsum-generator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-lorem-ipsum-generator",
   "permanent": true
@@ -2000,6 +2005,11 @@
   "permanent": true
  },
  {
+  "source": "/:locale/q1q3/",
+  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
+  "permanent": true
+ },
+ {
   "source": "/:locale/q1q3/:path*",
   "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
@@ -2387,12 +2397,27 @@
   "permanent": true
  },
  {
+  "source": "/:locale/ratio/:w/:h/",
+  "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh",
+  "permanent": true
+ },
+ {
   "source": "/ratio/:w/:h",
   "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh",
   "permanent": true
  },
  {
+  "source": "/ratio/:w/:h/",
+  "destination": "https://blog.oiyo.net/en/aspect-ratio-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=ratio-wh",
+  "permanent": true
+ },
+ {
   "source": "/q1q3",
+  "destination": "https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
+  "permanent": true
+ },
+ {
+  "source": "/q1q3/",
   "destination": "https://game.oiyo.net/ko/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
   "permanent": true
  },
