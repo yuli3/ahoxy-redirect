@@ -16,6 +16,22 @@ Next.js+Vercel → **Astro+Cloudflare Pages** 이전 (2026-07-03). ahoxy는 이�
 
 매핑 변경 시 `scripts/redirects-source.json` 수정 → `npm run redirects` (빌드에 자동 포함).
 
+### 패밀리 쪽 주소가 또 옮겨졌을 때 (2026-11-09 추가)
+
+blog → tools처럼 목적지가 나중에 다시 옮겨지면 ahoxy 301이 2단·3단이 된다(221개 규칙이 그랬다).
+패밀리 저장소를 옆에 두고 최종 목적지 지도를 다시 만든다.
+
+```bash
+python3 scripts/check-final-destinations.py --write \
+  blog.oiyo.net=../blog-oiyo oiyo.net=../oiyo-astro tools.oiyo.net=../tools-oiyo \
+  game.oiyo.net=../game-oiyo wiki.oiyo.net=../wiki-oiyo
+npm run redirects
+python3 scripts/check-final-destinations.py <같은 인자>   # 0 with extra hops 이어야 한다
+```
+
+`scripts/family-final.json`(첫 목적지 → 최종 목적지)을 생성기가 적용하고, 감사는 옮겨진 목적지를 정상으로 인정한다.
+배포 뒤에는 `--online`으로 실제 응답을 한 번 확인한다.
+
 ## 검증 (2026-08-04: 자립화)
 
 `npm run audit:redirects`는 **이 저장소 안의 파일만** 읽는다.

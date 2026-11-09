@@ -118,20 +118,23 @@ CRITICAL_REDIRECTS = [
     {
         "routeId": "critical.ahoxy.root.name",
         "source": "/name",
-        "target": "https://blog.oiyo.net/ko/tool-life-utilities",
-        "campaign": "tool-life-utilities",
+        "target": "https://tools.oiyo.net/ko/baby-name-generator",
+        "campaign": "baby-name-generator",
+        "trailingSlash": True,
     },
     {
         "routeId": "critical.ahoxy.root.emoji",
         "source": "/emoji",
-        "target": "https://blog.oiyo.net/ko/tool-life-utilities",
-        "campaign": "tool-life-utilities",
+        "target": "https://tools.oiyo.net/ko/emoji-picker",
+        "campaign": "emoji-picker",
+        "trailingSlash": True,
     },
     {
         "routeId": "critical.ahoxy.root.worldclock",
         "source": "/worldclock",
-        "target": "https://blog.oiyo.net/ko/tool-life-utilities",
-        "campaign": "tool-life-utilities",
+        "target": "https://tools.oiyo.net/ko/world-clock",
+        "campaign": "world-clock",
+        "trailingSlash": True,
     },
     {
         "routeId": "critical.ahoxy.root.height-converter",
@@ -421,21 +424,78 @@ def load_redirects() -> dict[str, list[dict[str, Any]]]:
 
 
 
+FAMILY_FINAL_PATH = ROOT / "scripts" / "family-final.json"
+ALL_LOCALES = ("ko", "en", "ja", "es", "fr", "zh")
+
+
+def load_family_final() -> dict[str, str]:
+    """Expected targets that later moved inside the family (blog -> tools etc.).
+
+    generate-redirects.mjs sends those rules straight to the final URL, so a
+    spec whose target moved is satisfied by the final URL. Locale-generic pairs
+    ({locale}) are derived too: if every locale ends on one page (a KR-only
+    calculator) the generic target maps to that page, otherwise to the final
+    URL with its locale segment made generic.
+    """
+    if not FAMILY_FINAL_PATH.exists():
+        return {}
+    raw = json.loads(FAMILY_FINAL_PATH.read_text(encoding="utf-8"))
+    pairs: dict[str, str] = {}
+    generic: dict[str, dict[str, str]] = {}
+    for first, final in raw.items():
+        a, b = normalize_target(first), normalize_target(final)
+        pairs[a] = b
+        for loc in ALL_LOCALES:
+            seg = f"/{loc}/"
+            if seg in a + "/":
+                ga = (a + "/").replace(seg, "/{locale}/", 1).rstrip("/")
+                gb = (b + "/").replace(seg, "/{locale}/", 1).rstrip("/") if seg in b + "/" else b
+                generic.setdefault(ga, {})[loc] = b if gb == b else gb
+                break
+    for ga, by_loc in generic.items():
+        literal = {pairs[ga.replace("{locale}", loc)] for loc in by_loc}
+        pairs.setdefault(ga, next(iter(literal)) if len(literal) == 1 else next(iter(set(by_loc.values()))))
+    return pairs
+
+
+def _split_locale_spec(spec: dict[str, Any], redirects: dict[str, list[dict[str, Any]]]) -> list[dict[str, Any]] | None:
+    """A /:locale/ spec whose locales now differ (e.g. en keeps a blog page,
+    ko/ja/es moved) is not synthesized into one :locale rule. Check it per locale."""
+    if not spec["source"].startswith("/:locale/"):
+        return None
+    out = []
+    for loc in KNOWN_LOCALES:
+        src = spec["source"].replace(":locale", loc, 1)
+        if src not in redirects:
+            return None
+        out.append({**spec, "routeId": f"{spec['routeId']}[{loc}]", "source": src,
+                    "target": spec["target"].replace("{locale}", loc)})
+    return out
+
+
 def audit() -> tuple[list[str], list[str], int]:
     redirects = load_redirects()
     specs = load_snapshot() + CRITICAL_REDIRECTS
+    family = load_family_final()
 
     errors: list[str] = []
     warnings: list[str] = []
 
-    for spec in specs:
+    queue = list(specs)
+    while queue:
+        spec = queue.pop(0)
         source = spec["source"]
         candidates = redirects.get(source, [])
         if not candidates:
+            split = _split_locale_spec(spec, redirects)
+            if split:
+                queue[:0] = split
+                continue
             errors.append(f"{spec['routeId']}: missing redirect source {source}")
             continue
 
-        matching = [item for item in candidates if normalize_target(item["destination"]) == spec["target"]]
+        accepted = {spec["target"], family.get(spec["target"], spec["target"])}
+        matching = [item for item in candidates if normalize_target(item["destination"]) in accepted]
         if not matching:
             details = ", ".join(
                 f"line {item['line']} -> {normalize_target(item['destination'])}" for item in candidates

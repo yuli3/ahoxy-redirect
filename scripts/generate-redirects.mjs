@@ -84,9 +84,28 @@ function resolveExternal(dest) {
   return d.startsWith("/") ? null : d;
 }
 
+// pass 3 — family chains (2026-11-09). A target that later moved again inside the
+// family (blog → tools, oiyo.net → tools, deleted hubs) costs an extra hop. The
+// map is written by `python3 scripts/check-final-destinations.py --write <host>=<repo>…`
+// and keyed by the target without its query, so the utm query is kept.
+let familyFinal = {};
+try {
+  familyFinal = JSON.parse(readFileSync(join(__dirname, "family-final.json"), "utf8"));
+} catch {
+  familyFinal = {};
+}
+function flatten(dest) {
+  const q = dest.indexOf("?");
+  const base = q === -1 ? dest : dest.slice(0, q);
+  const query = q === -1 ? "" : dest.slice(q);
+  const hit = familyFinal[base] ?? familyFinal[base.replace(/\/$/, "")] ?? familyFinal[`${base.replace(/\/$/, "")}/`];
+  return hit ? hit + query : dest;
+}
+
 let dropped = 0;
 for (const { s, d, kind } of expanded) {
-  const finalDest = d.startsWith("/") ? resolveExternal(d) : d;
+  const resolved = d.startsWith("/") ? resolveExternal(d) : d;
+  const finalDest = resolved ? flatten(resolved) : resolved;
   if (!finalDest) {
     dropped++;
     continue;
