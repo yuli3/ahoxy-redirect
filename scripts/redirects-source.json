@@ -1,12 +1,12 @@
 [
  {
   "source": "/aim-trainer",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/aim-trainer/:path*",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
@@ -71,7 +71,7 @@
  },
  {
   "source": "/menu",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/ko/menu-roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
   "permanent": true
  },
  {
@@ -1181,12 +1181,12 @@
  },
  {
   "source": "/:locale/menu",
-  "destination": "https://oiyo.net/:locale/menu/roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
+  "destination": "https://tools.oiyo.net/:locale/menu-roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
   "permanent": true
  },
  {
   "source": "/:locale/menu/",
-  "destination": "https://oiyo.net/:locale/menu/roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
+  "destination": "https://tools.oiyo.net/:locale/menu-roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
   "permanent": true
  },
  {
@@ -1306,17 +1306,17 @@
  },
  {
   "source": "/:locale/aim-trainer",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/:locale/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/:locale/aim-trainer/",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/:locale/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/:locale/aim-trainer/:path*",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/:locale/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {

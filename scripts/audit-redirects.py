@@ -54,6 +54,15 @@ CRITICAL_REDIRECTS = [
         "source": "/aim-trainer",
         "target": "https://game.oiyo.net/ko/aim-trainer",
         "campaign": "aim-trainer",
+        "trailingSlash": True,
+    },
+    {
+        # 2026-11-09: keep the visitor's locale (was: every locale -> /ko/).
+        "routeId": "critical.ahoxy.locale.aim-trainer",
+        "source": "/:locale/aim-trainer",
+        "target": "https://game.oiyo.net/{locale}/aim-trainer",
+        "campaign": "aim-trainer",
+        "trailingSlash": True,
     },
     {
         "routeId": "critical.ahoxy.root.gomoku",
@@ -100,8 +109,11 @@ CRITICAL_REDIRECTS = [
     {
         "routeId": "critical.ahoxy.root.menu",
         "source": "/menu",
-        "target": "https://blog.oiyo.net/ko/tool-life-utilities",
-        "campaign": "tool-life-utilities",
+        # 2026-11-09: one hop to the live tool. The life-utilities hub was deleted (08-27)
+        # and the oiyo.net roulette moved to Tools (10-27), so the old targets chained.
+        "target": "https://tools.oiyo.net/ko/menu-roulette",
+        "campaign": "menu-roulette",
+        "trailingSlash": True,
     },
     {
         "routeId": "critical.ahoxy.root.name",
@@ -196,7 +208,7 @@ CRITICAL_REDIRECTS = [
     {
         "routeId": "critical.ahoxy.locale.menu",
         "source": "/:locale/menu",
-        "target": "https://oiyo.net/{locale}/menu/roulette",
+        "target": "https://tools.oiyo.net/{locale}/menu-roulette",
         "campaign": "menu-roulette",
         "trailingSlash": True,
     },
