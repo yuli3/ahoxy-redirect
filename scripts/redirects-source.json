@@ -1955,6 +1955,16 @@
   "permanent": true
  },
  {
+  "source": "/es/global-etf",
+  "destination": "https://blog.oiyo.net/en/global-etf-beginner-guide/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=etf-investing",
+  "permanent": true
+ },
+ {
+  "source": "/es/global-etf/:path*",
+  "destination": "https://blog.oiyo.net/en/global-etf-beginner-guide/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=etf-investing",
+  "permanent": true
+ },
+ {
   "source": "/:locale/global-etf",
   "destination": "https://blog.oiyo.net/:locale/academy-etf-investing-ch1?utm_source=ahoxy&utm_medium=redirect&utm_campaign=etf-investing",
   "permanent": true
