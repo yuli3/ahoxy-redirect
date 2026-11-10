@@ -437,9 +437,12 @@ def load_family_final() -> dict[str, str]:
     calculator) the generic target maps to that page, otherwise to the final
     URL with its locale segment made generic.
     """
-    if not FAMILY_FINAL_PATH.exists():
+    raw: dict[str, str] = {}
+    for path in (FAMILY_FINAL_PATH, FAMILY_FINAL_PATH.with_name("family-final-online.json")):
+        if path.exists():
+            raw.update(json.loads(path.read_text(encoding="utf-8")))
+    if not raw:
         return {}
-    raw = json.loads(FAMILY_FINAL_PATH.read_text(encoding="utf-8"))
     pairs: dict[str, str] = {}
     generic: dict[str, dict[str, str]] = {}
     for first, final in raw.items():
