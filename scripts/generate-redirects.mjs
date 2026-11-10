@@ -88,18 +88,30 @@ function resolveExternal(dest) {
 // family (blog → tools, oiyo.net → tools, deleted hubs) costs an extra hop. The
 // map is written by `python3 scripts/check-final-destinations.py --write <host>=<repo>…`
 // and keyed by the target without its query, so the utm query is kept.
+// family-final-online.json comes from a live HEAD walk (it also sees the
+// sites' own slash normalisation and server redirects the offline walk can't),
+// so it wins over the offline map.
 let familyFinal = {};
-try {
-  familyFinal = JSON.parse(readFileSync(join(__dirname, "family-final.json"), "utf8"));
-} catch {
-  familyFinal = {};
+for (const name of ["family-final.json", "family-final-online.json"]) {
+  try {
+    Object.assign(familyFinal, JSON.parse(readFileSync(join(__dirname, name), "utf8")));
+  } catch {
+    // optional file
+  }
 }
 function flatten(dest) {
   const q = dest.indexOf("?");
   const base = q === -1 ? dest : dest.slice(0, q);
   const query = q === -1 ? "" : dest.slice(q);
-  const hit = familyFinal[base] ?? familyFinal[base.replace(/\/$/, "")] ?? familyFinal[`${base.replace(/\/$/, "")}/`];
-  return hit ? hit + query : dest;
+  const look = (u) => familyFinal[u] ?? familyFinal[u.replace(/\/$/, "")] ?? familyFinal[`${u.replace(/\/$/, "")}/`];
+  // the offline map may point at a URL the live map moves again: follow both
+  let cur = base;
+  for (let i = 0; i < 6; i++) {
+    const next = look(cur);
+    if (!next || next === cur) break;
+    cur = next;
+  }
+  return cur + query;
 }
 
 let dropped = 0;
@@ -122,8 +134,8 @@ if (dropped) console.warn(`dropped ${dropped} unresolvable internal-chain rules 
 addStatic("/", "https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=root");
 // mbti/results(has-룰 대체): 결과 딥링크는 oiyo mbti 테스트로
 for (const l of LOCALES) {
-  addStatic(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
-  if (!prefixMap.has(`/${l}/mbti/results`)) prefixMap.set(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
+  addStatic(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
+  if (!prefixMap.has(`/${l}/mbti/results`)) prefixMap.set(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
 }
 
 const lines = [
