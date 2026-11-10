@@ -134,8 +134,8 @@ if (dropped) console.warn(`dropped ${dropped} unresolvable internal-chain rules 
 addStatic("/", "https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=root");
 // mbti/results(has-룰 대체): 결과 딥링크는 oiyo mbti 테스트로
 for (const l of LOCALES) {
-  addStatic(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
-  if (!prefixMap.has(`/${l}/mbti/results`)) prefixMap.set(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
+  addStatic(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
+  if (!prefixMap.has(`/${l}/mbti/results`)) prefixMap.set(`/${l}/mbti/results`, `https://oiyo.net/${l}/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results`);
 }
 
 const lines = [
