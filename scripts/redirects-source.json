@@ -1,12 +1,12 @@
 [
  {
   "source": "/aim-trainer",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/aim-trainer/:path*",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/ko/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
@@ -71,22 +71,22 @@
  },
  {
   "source": "/menu",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/ko/menu-roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
   "permanent": true
  },
  {
   "source": "/name",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/ko/baby-name-generator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=baby-name-generator",
   "permanent": true
  },
  {
   "source": "/emoji",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/ko/emoji-picker/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=emoji-picker",
   "permanent": true
  },
  {
   "source": "/worldclock",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/ko/world-clock/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=world-clock",
   "permanent": true
  },
  {
@@ -781,7 +781,7 @@
  },
  {
   "source": "/:locale/latte-factor",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/:locale/latte-factor-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=latte-factor-calculator",
   "permanent": true
  },
  {
@@ -791,7 +791,7 @@
  },
  {
   "source": "/:locale/life-expectancy",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/ko/life-expectancy-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=life-expectancy-calculator",
   "permanent": true
  },
  {
@@ -811,7 +811,7 @@
  },
  {
   "source": "/:locale/meeting-cost",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/:locale/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tools-home",
   "permanent": true
  },
  {
@@ -906,7 +906,7 @@
  },
  {
   "source": "/:locale/wedding-planning",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/:locale/wedding-planning-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wedding-planning-calculator",
   "permanent": true
  },
  {
@@ -921,7 +921,7 @@
  },
  {
   "source": "/:locale/year",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year",
   "permanent": true
  },
  {
@@ -1156,17 +1156,17 @@
  },
  {
   "source": "/:locale/cultural-greetings",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/:locale/cultural-greeting-guide/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=cultural-greeting-guide",
   "permanent": true
  },
  {
   "source": "/:locale/dog-vision",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/:locale/dog-vision-simulator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dog-vision-simulator",
   "permanent": true
  },
  {
   "source": "/:locale/emoji",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/:locale/emoji-picker/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=emoji-picker",
   "permanent": true
  },
  {
@@ -1181,12 +1181,12 @@
  },
  {
   "source": "/:locale/menu",
-  "destination": "https://oiyo.net/:locale/menu/roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
+  "destination": "https://tools.oiyo.net/:locale/menu-roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
   "permanent": true
  },
  {
   "source": "/:locale/menu/",
-  "destination": "https://oiyo.net/:locale/menu/roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
+  "destination": "https://tools.oiyo.net/:locale/menu-roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette",
   "permanent": true
  },
  {
@@ -1196,7 +1196,7 @@
  },
  {
   "source": "/:locale/worldclock",
-  "destination": "https://blog.oiyo.net/ko/tool-life-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-life-utilities",
+  "destination": "https://tools.oiyo.net/:locale/world-clock/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=world-clock",
   "permanent": true
  },
  {
@@ -1306,17 +1306,17 @@
  },
  {
   "source": "/:locale/aim-trainer",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/:locale/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/:locale/aim-trainer/",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/:locale/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
   "source": "/:locale/aim-trainer/:path*",
-  "destination": "https://game.oiyo.net/ko/aim-trainer?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
+  "destination": "https://game.oiyo.net/:locale/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=aim-trainer",
   "permanent": true
  },
  {
