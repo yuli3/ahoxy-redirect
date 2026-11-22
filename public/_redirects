@@ -1245,10 +1245,14 @@
 /en/expressions https://blog.oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=expressions 301
 /ja/expressions https://blog.oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=expressions 301
 /es/expressions https://blog.oiyo.net/es/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=expressions 301
-/ko/face https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
-/en/face https://oiyo.net/en/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
-/ja/face https://oiyo.net/ja/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
-/es/face https://oiyo.net/es/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/ko/face https://tools.oiyo.net/ko/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/en/face https://tools.oiyo.net/en/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/ja/face https://tools.oiyo.net/ja/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/es/face https://tools.oiyo.net/es/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/ko/face-analysis https://tools.oiyo.net/ko/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/en/face-analysis https://tools.oiyo.net/en/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/ja/face-analysis https://tools.oiyo.net/ja/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/es/face-analysis https://tools.oiyo.net/es/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
 /ko/logo https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=logo 301
 /en/logo https://blog.oiyo.net/en/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=logo 301
 /ja/logo https://blog.oiyo.net/ja/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=logo 301
@@ -1338,7 +1342,7 @@
 /ja/mbti/results https://oiyo.net/ja/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results 301
 /es/mbti/results https://oiyo.net/es/mbti/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mbti-results 301
 /lostark-bus-calculator https://game.oiyo.net/ko/lostark-bus-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-bus 301
-/face https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
+/face https://tools.oiyo.net/ko/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
 /lostark-stronghold https://game.oiyo.net/ko/lostark-raid-distribution/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark 301
 /spinner https://game.oiyo.net/ko/wheel-spinner/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wheel-spinner 301
 /lostarkCalculator https://game.oiyo.net/ko/lostark-auction-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
@@ -1666,7 +1670,7 @@
 /ja/learning-style/ https://oiyo.net/ja/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
 /ko/express-match/expressions/exp231 https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match 301
 /en/worldclock/singapore https://tools.oiyo.net/en/world-clock/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=world-clock 301
-/en/face-analysis/ https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
+/en/face-analysis/ https://tools.oiyo.net/en/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face 301
 /en/hitori/ https://game.oiyo.net/ko/hitori/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hitori-decluttering-strategy 301
 /en/blog/svg-vieweren/ https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ja/blog/solitaire/ https://oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
@@ -1751,7 +1755,6 @@
 /en/tools/timezone-visualizer/ https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /en/express-match/expressions/exp213 https://oiyo.net/en/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match 301
 /en/css-unit-converter/ https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities 301
-/en/face-analysis https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ja/education-statistics/ch7/ https://oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ja/morse-code/ https://oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ko/anniversary/ https://tools.oiyo.net/ko/anniversary-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-anniversary-calculator 301
