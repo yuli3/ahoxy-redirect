@@ -85,7 +85,8 @@ CRITICAL_REDIRECTS = [
     {
         "routeId": "critical.ahoxy.root.wordle",
         "source": "/wordle",
-        "target": "https://game.oiyo.net/ko/wordle",
+        # 2026-11-22: game moved /ko/wordle to /ko/five-letter-guess/ (game public/_redirects); point straight at it.
+        "target": "https://game.oiyo.net/ko/five-letter-guess",
         "campaign": "wordle",
     },
     {
