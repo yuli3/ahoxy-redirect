@@ -511,7 +511,7 @@
  },
  {
   "source": "/:locale/lostark-bus-calculator",
-  "destination": "https://game.oiyo.net/:locale/lostark-raid-distribution?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark",
+  "destination": "https://game.oiyo.net/:locale/lostark-bus-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-bus",
   "permanent": true
  },
  {
@@ -641,12 +641,12 @@
  },
  {
   "source": "/:locale/compound",
-  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "destination": "https://tools.oiyo.net/:locale/compound-interest-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=compound",
   "permanent": true
  },
  {
   "source": "/:locale/compound2",
-  "destination": "https://blog.oiyo.net/ko/tool-financial-investment-tax-calculator?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator",
+  "destination": "https://tools.oiyo.net/:locale/compound2-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=compound2",
   "permanent": true
  },
  {
@@ -1061,7 +1061,7 @@
  },
  {
   "source": "/:locale/image-to-ascii",
-  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "destination": "https://tools.oiyo.net/:locale/ascii-art-generator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=image-to-ascii",
   "permanent": true
  },
  {
@@ -1176,7 +1176,7 @@
  },
  {
   "source": "/:locale/image-metadata",
-  "destination": "https://blog.oiyo.net/ko/tool-developer-utilities?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities",
+  "destination": "https://tools.oiyo.net/:locale/image-metadata-viewer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=image-metadata",
   "permanent": true
  },
  {
