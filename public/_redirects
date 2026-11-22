@@ -4,7 +4,7 @@
 /gomoku https://game.oiyo.net/ko/gomoku/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku 301
 /tier https://game.oiyo.net/ko/tier-list/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
 /minesweeper https://game.oiyo.net/ko/minesweeper/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=minesweeper 301
-/wordle https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/wordle https://game.oiyo.net/ko/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
 /kbd2 https://game.oiyo.net/ko/aim-trainer/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-keyboard-reaction-test 301
 /typing-test https://oiyo.net/en/typing-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=typing-test 301
 /menu https://tools.oiyo.net/ko/menu-roulette/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=menu-roulette 301
@@ -555,10 +555,10 @@
 /en/freecell https://game.oiyo.net/ko/freecell/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=freecell-resource-allocation 301
 /ja/freecell https://game.oiyo.net/ko/freecell/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=freecell-resource-allocation 301
 /es/freecell https://game.oiyo.net/ko/freecell/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=freecell-resource-allocation 301
-/ko/hearts https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
-/en/hearts https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
-/ja/hearts https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
-/es/hearts https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
+/ko/hearts https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
+/en/hearts https://game.oiyo.net/en/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
+/ja/hearts https://game.oiyo.net/ja/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
+/es/hearts https://game.oiyo.net/es/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
 /ko/hitori https://game.oiyo.net/ko/hitori/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hitori-decluttering-strategy 301
 /en/hitori https://game.oiyo.net/ko/hitori/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hitori-decluttering-strategy 301
 /ja/hitori https://game.oiyo.net/ko/hitori/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hitori-decluttering-strategy 301
@@ -595,10 +595,10 @@
 /en/water-sort https://game.oiyo.net/en/water-sort/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=water-sort 301
 /ja/water-sort https://game.oiyo.net/ja/water-sort/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=water-sort 301
 /es/water-sort https://game.oiyo.net/es/water-sort/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=water-sort 301
-/ko/wordle https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
-/en/wordle https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
-/ja/wordle https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
-/es/wordle https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/ko/wordle https://game.oiyo.net/ko/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/en/wordle https://game.oiyo.net/en/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/ja/wordle https://game.oiyo.net/ja/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/es/wordle https://game.oiyo.net/es/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
 /ko/beautifier https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities 301
 /en/beautifier https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities 301
 /ja/beautifier https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-developer-utilities 301
@@ -1257,10 +1257,10 @@
 /en/mobileBanner https://blog.oiyo.net/en/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mobileBanner 301
 /ja/mobileBanner https://blog.oiyo.net/ja/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mobileBanner 301
 /es/mobileBanner https://blog.oiyo.net/es/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mobileBanner 301
-/ko/monitor https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
-/en/monitor https://blog.oiyo.net/en/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
-/ja/monitor https://blog.oiyo.net/ja/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
-/es/monitor https://blog.oiyo.net/es/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
+/ko/monitor https://tools.oiyo.net/ko/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
+/en/monitor https://tools.oiyo.net/en/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
+/ja/monitor https://tools.oiyo.net/ja/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
+/es/monitor https://tools.oiyo.net/es/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
 /ko/mouse https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
 /en/mouse https://blog.oiyo.net/en/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
 /ja/mouse https://blog.oiyo.net/ja/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
@@ -1350,7 +1350,7 @@
 /empathy-test https://oiyo.net/ko/empathy/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=empathy-test 301
 /en/lostark-calculator/ https://game.oiyo.net/en/lostark-auction-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=lostark-auction 301
 /chimp-test https://oiyo.net/ko/chimp-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=chimp-test 301
-/monitor https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
+/monitor https://tools.oiyo.net/ko/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
 /ko/riasec/results https://oiyo.net/ko/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test 301
 /mouse https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
 /en/salary-calculator/ https://tools.oiyo.net/ko/salary-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=salary-calculator-complete-guide 301
@@ -1366,7 +1366,7 @@
 /ja/color-recognition-test/ https://oiyo.net/ja/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
 /pokedex https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=games 301
 /ko/perfume-test/finder https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
-/en/hearts/game https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
+/en/hearts/game https://game.oiyo.net/en/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
 /uuidgenerator https://tools.oiyo.net/ko/uuid-generator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-uuid-generator 301
 /ko/tools/dutch-pay https://tools.oiyo.net/ko/dutch-pay-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=dutch-pay 301
 /ja/child-height/ https://tools.oiyo.net/ja/child-height-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=child-height-calculator 301
@@ -1386,7 +1386,7 @@
 /anniversary https://tools.oiyo.net/ko/anniversary-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-anniversary-calculator 301
 /ko/perfectscope/results https://oiyo.net/ko/perfectionism/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=perfectionism-test 301
 /ko/express-match/expressions/exp217 https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match 301
-/ko/wordle/ https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/ko/wordle/ https://game.oiyo.net/ko/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
 /ko/tools/inflation-calculator https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ko/year/2007 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /en/blog/housing-subscription-score/ https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
@@ -1407,7 +1407,7 @@
 /ko/tools/car-tax https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ja/political-compass/ https://oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /en/year/1954 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
-/ko/hearts/game https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
+/ko/hearts/game https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
 /face2 https://oiyo.net/ko/personal-color/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test 301
 /en/crypto-tax-calculator/ https://tools.oiyo.net/ko/overseas-stock-tax/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator 301
 /en/blog/image-metadataen/ https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
@@ -1468,7 +1468,7 @@
 /en/isa-vs-pension/ https://tools.oiyo.net/ko/overseas-stock-tax/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-financial-investment-tax-calculator 301
 /ko/year/1972 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /image-to-ascii https://tools.oiyo.net/ko/ascii-art-generator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=image-to-ascii 301
-/en/wordle/ https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/en/wordle/ https://game.oiyo.net/en/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
 /244 https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /en/perfume-test/finder https://oiyo.net/en/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
 /ko/year/1989 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
@@ -1503,7 +1503,7 @@
 /ko/lostarkcalculator https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ko/express-match/expressions/exp186 https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match 301
 /perfume-test https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
-/hearts https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
+/hearts https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
 /ja/samjae-checker/ https://oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /en/number-sorter/ https://tools.oiyo.net/en/number-sorter/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=number-sorter 301
 /ko/perfume-test/ https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
@@ -1770,7 +1770,7 @@
 /year/1995 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /year/2000 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /en/color-converter/ https://tools.oiyo.net/ko/color-converter/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-color-converter 301
-/en/hearts/ https://game.oiyo.net/ko/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy 301
+/en/hearts/ https://game.oiyo.net/en/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts 301
 /en/productivity-style/ https://oiyo.net/en/productivity-style-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=productivity-style-test 301
 /ko/hormones/ https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tests 301
 /ko/selfesteem/ https://oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
@@ -1782,7 +1782,7 @@
 /en/express-match/expressions/exp122 https://oiyo.net/en/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match 301
 /en/tax-calendar-grids/ https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /en/year/1946 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
-/es/wordle/ https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/es/wordle/ https://game.oiyo.net/es/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
 /en/year/ https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /snake https://game.oiyo.net/ko/snake-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=snake-game 301
 /year/2002 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
@@ -1811,7 +1811,7 @@
 /en/worldclock/honolulu https://tools.oiyo.net/en/world-clock/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=world-clock 301
 /resiboost/test https://oiyo.net/ko/resilience-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=resilience-boost-test 301
 /personalColor https://oiyo.net/ko/personal-color/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=personal-color-test 301
-/ko/wordle/game https://game.oiyo.net/ko/wordle/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
+/ko/wordle/game https://game.oiyo.net/ko/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle 301
 /ko/lightup/game https://game.oiyo.net/ko/light-up/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=light-up 301
 /ko/year/2002 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /ko/express-match/expressions/exp168 https://oiyo.net/ko/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match 301

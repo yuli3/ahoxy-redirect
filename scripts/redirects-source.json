@@ -41,12 +41,12 @@
  },
  {
   "source": "/wordle",
-  "destination": "https://game.oiyo.net/ko/wordle?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
+  "destination": "https://game.oiyo.net/ko/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
   "permanent": true
  },
  {
   "source": "/wordle/:path*",
-  "destination": "https://game.oiyo.net/ko/wordle?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
+  "destination": "https://game.oiyo.net/ko/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
   "permanent": true
  },
  {
@@ -971,7 +971,7 @@
  },
  {
   "source": "/:locale/hearts",
-  "destination": "https://blog.oiyo.net/ko/hearts-risk-transfer-strategy?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts-risk-transfer-strategy",
+  "destination": "https://game.oiyo.net/:locale/hearts-game/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hearts",
   "permanent": true
  },
  {
@@ -1026,7 +1026,7 @@
  },
  {
   "source": "/:locale/wordle",
-  "destination": "https://game.oiyo.net/ko/wordle?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
+  "destination": "https://game.oiyo.net/:locale/five-letter-guess/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=wordle",
   "permanent": true
  },
  {
@@ -2398,12 +2398,12 @@
  },
  {
   "source": "/:locale/monitor",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor",
+  "destination": "https://tools.oiyo.net/:locale/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor",
   "permanent": true
  },
  {
   "source": "/:locale/monitor/:path*",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor",
+  "destination": "https://tools.oiyo.net/:locale/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor",
   "permanent": true
  },
  {
