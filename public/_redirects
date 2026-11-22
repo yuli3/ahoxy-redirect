@@ -1261,10 +1261,10 @@
 /en/monitor https://tools.oiyo.net/en/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
 /ja/monitor https://tools.oiyo.net/ja/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
 /es/monitor https://tools.oiyo.net/es/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
-/ko/mouse https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
-/en/mouse https://blog.oiyo.net/en/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
-/ja/mouse https://blog.oiyo.net/ja/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
-/es/mouse https://blog.oiyo.net/es/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
+/ko/mouse https://tools.oiyo.net/ko/mouse-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
+/en/mouse https://tools.oiyo.net/en/mouse-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
+/ja/mouse https://tools.oiyo.net/ja/mouse-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
+/es/mouse https://tools.oiyo.net/es/mouse-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
 /ko/note https://blog.oiyo.net/ko/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=note 301
 /en/note https://blog.oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=note 301
 /ja/note https://blog.oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=note 301
@@ -1352,7 +1352,7 @@
 /chimp-test https://oiyo.net/ko/chimp-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=chimp-test 301
 /monitor https://tools.oiyo.net/ko/dead-pixel-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=monitor 301
 /ko/riasec/results https://oiyo.net/ko/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test 301
-/mouse https://blog.oiyo.net/ko/tools/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
+/mouse https://tools.oiyo.net/ko/mouse-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse 301
 /en/salary-calculator/ https://tools.oiyo.net/ko/salary-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=salary-calculator-complete-guide 301
 /ko/riasec/test https://oiyo.net/ko/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test 301
 /riasec https://oiyo.net/ko/riasec-career-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=riasec-career-test 301
