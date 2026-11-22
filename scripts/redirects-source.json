@@ -2368,12 +2368,22 @@
  },
  {
   "source": "/:locale/face",
-  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
+  "destination": "https://tools.oiyo.net/:locale/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
   "permanent": true
  },
  {
   "source": "/:locale/face/:path*",
-  "destination": "https://oiyo.net/:locale/tests?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
+  "destination": "https://tools.oiyo.net/:locale/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/face-analysis",
+  "destination": "https://tools.oiyo.net/:locale/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
+  "permanent": true
+ },
+ {
+  "source": "/:locale/face-analysis/:path*",
+  "destination": "https://tools.oiyo.net/:locale/face-ratio/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=face",
   "permanent": true
  },
  {
