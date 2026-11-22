@@ -2408,12 +2408,12 @@
  },
  {
   "source": "/:locale/mouse",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse",
+  "destination": "https://tools.oiyo.net/:locale/mouse-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse",
   "permanent": true
  },
  {
   "source": "/:locale/mouse/:path*",
-  "destination": "https://blog.oiyo.net/:locale/tools?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse",
+  "destination": "https://tools.oiyo.net/:locale/mouse-test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=mouse",
   "permanent": true
  },
  {
