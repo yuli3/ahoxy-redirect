@@ -816,10 +816,10 @@
 /en/gomoku https://game.oiyo.net/ko/gomoku/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku 301
 /ja/gomoku https://game.oiyo.net/ko/gomoku/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku 301
 /es/gomoku https://game.oiyo.net/ko/gomoku/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=gomoku 301
-/ko/connect-four https://game.oiyo.net/ko/connect-four/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
-/en/connect-four https://game.oiyo.net/ko/connect-four/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
-/ja/connect-four https://game.oiyo.net/ko/connect-four/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
-/es/connect-four https://game.oiyo.net/ko/connect-four/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
+/ko/connect-four https://game.oiyo.net/ko/four-in-a-row/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
+/en/connect-four https://game.oiyo.net/ko/four-in-a-row/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
+/ja/connect-four https://game.oiyo.net/ko/four-in-a-row/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
+/es/connect-four https://game.oiyo.net/ko/four-in-a-row/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
 /ko/tier https://game.oiyo.net/ko/tier-list/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
 /en/tier https://game.oiyo.net/en/tier-list/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
 /ja/tier https://game.oiyo.net/ja/tier-list/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tier-list 301
@@ -1491,7 +1491,7 @@
 /ja/blog/education-actuarial-science/ https://oiyo.net/ja/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /personascope https://oiyo.net/ko/big5/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=big5-test 301
 /ko/tarot/ https://oiyo.net/ko/tarot/reading/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tarot-reading 301
-/ja/connect-four/ https://game.oiyo.net/ko/connect-four/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
+/ja/connect-four/ https://game.oiyo.net/ko/four-in-a-row/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
 /ko/hex-converter/ https://tools.oiyo.net/ko/color-converter/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=hex-converter 301
 /en/attachment-style/ https://oiyo.net/ko/attachment-style/test/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=psychology-attachment-style-test 301
 /en/blog/gif-splitter/ https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
@@ -1499,7 +1499,7 @@
 /en/tools/palette-extractor https://oiyo.net/en/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=domain-migration 301
 /ko/year/1981 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /ko/year/1992 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
-/connect-four https://game.oiyo.net/ko/connect-four/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
+/connect-four https://game.oiyo.net/ko/four-in-a-row/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=game-connect-four 301
 /bmi https://tools.oiyo.net/ko/body-fat-calculator/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=tool-body-fat-calculator 301
 /en/year/2002 https://blog.oiyo.net/ko/year/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=year 301
 /en/express-match/expressions/exp169 https://oiyo.net/en/tests/?utm_source=ahoxy&utm_medium=redirect&utm_campaign=express-match 301
